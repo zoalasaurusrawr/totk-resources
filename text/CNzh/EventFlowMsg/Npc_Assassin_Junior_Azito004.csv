@@ -1,0 +1,75 @@
+Label,String
+Talk_01,"LaughS你看上的是弓箭？
+还是我的脑袋？
+……呵，开个玩笑。"
+Com_Talk_55,"	什么？行李满了？你在耍我吗？
+是不是想让我给你脑袋上来一箭？"
+Talk_02,"LaughS_00区区新人居然把我的商品买完了，
+算了，反正我只要能赚钱就行。"
+Com_Talk_56,"￿1个*&Shop_SelectItemName￿￿的话，
+价格是,&Shop_TradeItemPrice￿촀卢比￿。"
+Talk_03,"QuestionNormal区区新人，眼光倒是不错嘛……"
+Com_Talk_31,"你要买*&Shop_SelectItemName￿￿啊……
+买几个？"
+Com_Talk_33,"ć你要卖1个*&Shop_SelectItemName￿￿啊……
+那就按,&Shop_TradeItemPrice￿촀卢比￿成交……没意见吧？"
+Com_Talk_34,"￿你要买下全部*&Shop_SelectItemName￿￿吗？
+(""Shop_TradeItemNum￿촀个一共是,&Shop_TradeItemPrice￿촀卢比￿。"
+Talk_07,"
+Think我很讨厌成群结队，
+没事了就赶紧给我走开。"
+Com_Talk_35,"ć你要将*&Shop_SelectItemName￿￿全部卖掉？
+(""Shop_TradeItemNum￿촀个加起来……,&Shop_TradeItemPrice￿촀卢比￿……没意见吧？"
+Com_Talk_02b,"如果还有东西要卖，
+就赶紧给我选！"
+Near_00,"瞄准敌人的要害……"
+Talk_08,"QuestionNormal想知道我讨厌什么样的人吗？
+一是没事还成群结队的人……
+ĉ二是没事还找我搭话的家伙！"
+Com_Talk_02c,"
+Happy还有东西要卖吗？"
+Talk_09,"ćQuestionNormal……是新人啊。"
+Com_Talk_02d,"不管多少我都收购，
+不过你最好卖点好东西给我。"
+0001,"请收购东西"
+5500,"好"
+Com_Talk_00,"如果有东西想卖，
+就赶紧给我选。"
+Com_Talk_13,"ć你要卖*&Shop_SelectItemName￿￿？
+那么……你要让我收购几个？"
+0002,"再见"
+5501,"不好"
+Com_Talk_01,"ć你要卖*&Shop_SelectItemName￿￿吗？
+我用,&Shop_TradeItemPrice￿촀卢比￿收购，没意见吧？"
+Com_Talk_14,"ć你要卖(""Shop_TradeItemNum￿촀个*&Shop_SelectItemName￿￿啊……
+那就按,&Shop_TradeItemPrice￿촀卢比￿成交，没意见吧？"
+5502,"买"
+Com_Talk_02,"如果还有东西要卖，
+就给我快点！"
+Com_Talk_15,"
+Think我可不会收购
+自己不喜欢的东西。"
+5503,"还是算了"
+Com_Talk_16,"	你这家伙……该不会真的
+打算把我们的依盖队服装卖掉吧？"
+Com_Talk_04,"	没想好就别在我这儿磨蹭！"
+Com_Talk_05,"ć抓紧选。"
+5507,"全买了"
+5508,"全卖了"
+Com_Talk_50,"你要买*&Shop_SelectItemName￿￿啊……
+这样是,&Shop_TradeItemPrice￿촀卢比￿，付得起吗？"
+Talk_10,"是个不错的选择。"
+Com_Talk_52,"￿你要买(""Shop_TradeItemNum￿촀个*&Shop_SelectItemName￿￿？
+这样是,&Shop_TradeItemPrice￿촀卢比￿，付钱吧？"
+Com_Talk_05b,"ć赶紧给我选。"
+Talk_12,"可盖大人都被打倒了，
+你还在悠哉游哉地买东西……不过么……"
+Com_Talk_53,"啧，光看不买就去别处。"
+Com_Talk_05c,"ć既然要卖，就卖点好东西给我吧。"
+Talk_00,"居然看上了弓箭，看来你很懂嘛。
+要想万无一失地解决暗杀对象，这是最合适的。
+当然，要瞄准敌人的头部。"
+Com_Talk_54,"	什么？钱不够？你在耍我吗？
+是不是想让我给你脑袋上来一箭？"
+Com_Talk_05d,"ć开始交易吧。
+你想卖什么东西给我？"

@@ -1,0 +1,57 @@
+Label,String
+Com_Talk_05,"ć抓紧选，别磨蹭。"
+Com_Talk_02c,"要是还有别的，
+就给我麻利点。"
+5508,"全卖了"
+Com_Talk_02d,"还有么？"
+Talk_07,"你要是没别的事儿，
+就赶紧给我走开。"
+Talk_09,"保养好武器可是暗杀的基础。"
+0001,"请收购东西"
+0002,"再见"
+Com_Talk_13,"*&Shop_SelectItemName￿￿是吧？
+……那，要卖几个？"
+Com_Talk_14,"￿(""Shop_TradeItemNum￿촀个*&Shop_SelectItemName￿￿啊……
+那我用,&Shop_TradeItemPrice￿촀卢比￿收购，成交吗？"
+Com_Talk_15,"
+Think我可不会收购
+自己不感兴趣的东西。"
+5500,"好"
+Com_Talk_50,"QuestionNormal要买*&Shop_SelectItemName￿￿么？
+这样是,&Shop_TradeItemPrice￿촀卢比￿……付得起吧？"
+Com_Talk_33,"￿1个*&Shop_SelectItemName￿￿啊……
+那我用,&Shop_TradeItemPrice￿촀卢比￿收购，成交吗？"
+Com_Talk_16,"
+Think你这家伙……该不会真的
+打算把我们的依盖队服装卖掉吧？"
+Near_00,"没武器的话就来看看吧。"
+5501,"不好"
+Com_Talk_05b,"ć赶紧选。"
+Talk_00,"要是需要武器，
+就来我这儿吧。
+不过呢……
+直接抢走同伴的武器也不是不行。"
+Com_Talk_00,"Greeting要是有想卖的东西，
+就赶紧给我决定。"
+Com_Talk_05c,"ć给我麻利点。"
+Com_Talk_35,"￿你要把*&Shop_SelectItemName￿￿全部卖掉？
+(""Shop_TradeItemNum￿촀个加起来……一共,&Shop_TradeItemPrice￿촀卢比￿，行吗？"
+Talk_01,"我不喜欢和别人打交道，
+有事就快说。"
+5503,"还是算了"
+Com_Talk_53,"
+Think不买的话就赶紧走。"
+Com_Talk_05d,"ć给我快点选。"
+Com_Talk_01,"*&Shop_SelectItemName￿￿的话，
+我用,&Shop_TradeItemPrice￿촀卢比￿收购……成交吗？"
+Near_03,"可恶……可盖大人……"
+Talk_02,"看不出来吗？
+我这儿已经没东西卖了。"
+Com_Talk_02,"要是还有别的，
+就抓紧点儿。"
+Talk_03,"保养好武器可是暗杀的基础……"
+Com_Talk_55,"	啧，先把自己的行李整理好了再来。"
+Com_Talk_02b,"要是还有别的，
+就赶快选。"
+Com_Talk_04,"
+Angry想好了再来，别在这儿磨蹭！"
