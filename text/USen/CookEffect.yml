@@ -1,0 +1,488 @@
+!FirstPlugin.MSYT+MessageHeader,%2520FirstPlugin.Plg,%2520Version=1.0.202.0,%2520Culture=neutral,%2520PublicKeyToken=null
+entries:
+  - contents:
+      text:
+        - "Hearty \0"
+  - contents:
+      text:
+        - "Restores stamina and temporarily extends\nyour Stamina Wheel. The additional stamina\nwill disappear as it's used.\0"
+  - contents:
+      text:
+        - "Spicy \0"
+  - contents:
+      text:
+        - "Electro \0"
+  - contents:
+      text:
+        - "Scorching \0"
+  - contents:
+      text:
+        - "Grants a midlevel stealth boost.\n\0"
+  - contents:
+      text:
+        - "Grants a low-level toughness effect, which\nfortifies your bones to strengthen your\ndefense. Best to use before facing off\nagainst hard-hitting enemies.\0"
+  - contents:
+      text:
+        - "Mighty \0"
+  - contents:
+      text:
+        - "Grants a low-level attack enhancement in\ncold places.\n\0"
+  - contents:
+      text:
+        - "Grants a high-level stealth boost.\n\0"
+  - contents:
+      text:
+        - "Electro \0"
+  - contents:
+      text:
+        - "Grants a low-level haste effect, which\nboosts your movement speed while\nrunning, swimming, or climbing.\0"
+  - contents:
+      text:
+        - "Grants low-level cold resistance.\n\0"
+  - contents:
+      text:
+        - "Grants low-level electricity resistance.\n\0"
+  - contents:
+      text:
+        - "Mighty \0"
+  - contents:
+      text:
+        - "Warding \0"
+  - contents:
+      text:
+        - "Grants midlevel electricity resistance.\n\0"
+  - contents:
+      text:
+        - "Grants high-level electricity resistance.\n\0"
+  - contents:
+      text:
+        - "Grants a low-level might effect, which\nstrengthens your body and mind to boost\nyour attack power with all weapons.\0"
+  - contents:
+      text:
+        - "Energizing \0"
+  - contents:
+      text:
+        - "Stormy \0"
+  - contents:
+      text:
+        - "Rapid \0"
+  - contents:
+      text:
+        - "Grants a low-level attack enhancement in\nhot places.\n\0"
+  - contents:
+      text:
+        - "Restores and overfills your Stamina Wheel.\n\0"
+  - contents:
+      text:
+        - "Grants a low-level stealth boost.\n\0"
+  - contents:
+      text:
+        - "Grants a high-level warming effect,\nincreasing your resistance to cold\nenvironments. Very useful when exploring\nsnow-covered mountains.\0"
+  - contents:
+      text:
+        - "Warding \0"
+  - contents:
+      text:
+        - "Energizing \0"
+  - contents:
+      text:
+        - "Hearty \0"
+  - contents:
+      text:
+        - "Bright \0"
+  - contents:
+      text:
+        - "Grants a midlevel might effect, which\nstrengthens your body and mind to boost\nyour attack power with all weapons.\0"
+  - contents:
+      text:
+        - "Grants a low-level movement-speed boost.\n\0"
+  - contents:
+      text:
+        - "Grants a high-level might effect, which\nstrengthens your body and mind to boost\nyour attack power with all weapons.\0"
+  - contents:
+      text:
+        - "Hasty \0"
+  - contents:
+      text:
+        - "Stormy \0"
+  - contents:
+      text:
+        - "Scorching \0"
+  - contents:
+      text:
+        - "Tough \0"
+  - contents:
+      text:
+        - "Grants a midlevel attack enhancement in\ncold places.\n\0"
+  - contents:
+      text:
+        - "Grants a midlevel attack enhancement during\nthunderstorms.\n\0"
+  - contents:
+      text:
+        - "Grants a low-level stealth effect, which\ncalms the nerves and silences footfalls.\nAllows you to move about undetected by\nmonsters and animals.\0"
+  - contents:
+      text:
+        - "Grants midlevel cold resistance.\n\0"
+  - contents:
+      text:
+        - "Warding \0"
+  - contents:
+      text:
+        - "Sunny \0"
+  - contents:
+      text:
+        - "Sticky \0"
+  - contents:
+      text:
+        - "Restores your health and temporarily\nincreases your maximum hearts.\n\0"
+  - contents:
+      text:
+        - "Hasty \0"
+  - contents:
+      text:
+        - "Bright \0"
+  - contents:
+      text:
+        - "Grants a high-level cooling effect, raising\nyour body's resistance to heat. Crucial for\nlong journeys through the desert.\0"
+  - contents:
+      text:
+        - "Grants low-level heat resistance.\n\0"
+  - contents:
+      text:
+        - "Biting \0"
+  - contents:
+      text:
+        - "Energizing \0"
+  - contents:
+      text:
+        - "Rapid \0"
+  - contents:
+      text:
+        - "Rapid \0"
+  - contents:
+      text:
+        - "Grants a low-level attack enhancement during\nthunderstorms.\n\0"
+  - contents:
+      text:
+        - "Chilly \0"
+  - contents:
+      text:
+        - "Hasty \0"
+  - contents:
+      text:
+        - "Sunny \0"
+  - contents:
+      text:
+        - "Grants a midlevel glow effect, illuminating\nyour immediate surroundings.\n\0"
+  - contents:
+      text:
+        - "Grants a high-level glow effect, illuminating\nyour immediate surroundings.\n\0"
+  - contents:
+      text:
+        - "Spicy \0"
+  - contents:
+      text:
+        - "Electro \0"
+  - contents:
+      text:
+        - "Scorching \0"
+  - contents:
+      text:
+        - "Fireproof \0"
+  - contents:
+      text:
+        - "Enduring \0"
+  - contents:
+      text:
+        - "Sneaky \0"
+  - contents:
+      text:
+        - "Spicy \0"
+  - contents:
+      text:
+        - "Biting \0"
+  - contents:
+      text:
+        - "Enduring \0"
+  - contents:
+      text:
+        - "Hearty \0"
+  - contents:
+      text:
+        - "Grants a midlevel glow effect, illuminating\nyour immediate surroundings. This faint\nluminescence is a boon in dark places.\0"
+  - contents:
+      text:
+        - "Fireproof \0"
+  - contents:
+      text:
+        - "Restores you to full health and increases\nyour maximum hearts. The additional hearts\nare lost as you take damage.\0"
+  - contents:
+      text:
+        - "Grants a high-level glow effect, illuminating\nyour immediate surroundings. This faint\nluminescence is a boon in dark places.\0"
+  - contents:
+      text:
+        - "Scorching \0"
+  - contents:
+      text:
+        - "Grants a low-level glow effect, illuminating\nyour immediate surroundings.\n\0"
+  - contents:
+      text:
+        - "Enduring \0"
+  - contents:
+      text:
+        - "Grants a high-level fireproof effect, which\nprevents your body from catching fire.\nBe sure to pack this when venturing out\nto explore caves in Death Mountain.\0"
+  - contents:
+      text:
+        - "Electro \0"
+  - contents:
+      text:
+        - "Mighty \0"
+  - contents:
+      text:
+        - "Sneaky \0"
+  - contents:
+      text:
+        - "Fireproof \0"
+  - contents:
+      text:
+        - "Sticky \0"
+  - contents:
+      text:
+        - "Grants a low-level cooling effect, raising\nyour body's resistance to heat. Crucial for\nlong journeys through the desert.\0"
+  - contents:
+      text:
+        - "Mighty \0"
+  - contents:
+      text:
+        - "Tough \0"
+  - contents:
+      text:
+        - "Sneaky \0"
+  - contents:
+      text:
+        - "Hasty \0"
+  - contents:
+      text:
+        - "Tough \0"
+  - contents:
+      text:
+        - "Restores hearts damaged by gloom.\n\0"
+  - contents:
+      text:
+        - "Sticky \0"
+  - contents:
+      text:
+        - "Spicy \0"
+  - contents:
+      text:
+        - "Grants a low-level defense boost.\n\0"
+  - contents:
+      text:
+        - "Sunny \0"
+  - contents:
+      text:
+        - "Energizing \0"
+  - contents:
+      text:
+        - "Chilly \0"
+  - contents:
+      text:
+        - "Grants a low-level slip resistance to keep you\nfrom slipping on wet surfaces. Its highly\nabsorptive ingredients make it a must-have\nfor sudden rainfalls.\0"
+  - contents:
+      text:
+        - "Grants a fireproof effect, which prevents your\nbody from catching fire.\nBe sure to pack this when venturing out\nto explore caves in Death Mountain.\0"
+  - contents:
+      text:
+        - "Chilly \0"
+  - contents:
+      text:
+        - "Sneaky \0"
+  - contents:
+      text:
+        - "Fireproof \0"
+  - contents:
+      text:
+        - "Warding \0"
+  - contents:
+      text:
+        - "Grants a low-level warming effect, increasing\nyour resistance to cold environments. Very\nuseful when exploring snow-covered\nmountains.\0"
+  - contents:
+      text:
+        - "Hearty \0"
+  - contents:
+      text:
+        - "Grants a midlevel haste effect, which\nboosts your movement speed while\nrunning, swimming, or climbing.\0"
+  - contents:
+      text:
+        - "Stormy \0"
+  - contents:
+      text:
+        - "Bright \0"
+  - contents:
+      text:
+        - "Grants a high-level haste effect, which\nboosts your movement speed while\nrunning, swimming, or climbing.\0"
+  - contents:
+      text:
+        - "Chilly \0"
+  - contents:
+      text:
+        - "Grants a midlevel defense boost.\n\0"
+  - contents:
+      text:
+        - "Spicy \0"
+  - contents:
+      text:
+        - "Biting \0"
+  - contents:
+      text:
+        - "Grants a high-level defense boost.\n\0"
+  - contents:
+      text:
+        - "Rapid \0"
+  - contents:
+      text:
+        - "Scorching \0"
+  - contents:
+      text:
+        - "Stormy \0"
+  - contents:
+      text:
+        - "Mighty \0"
+  - contents:
+      text:
+        - "Bright \0"
+  - contents:
+      text:
+        - "Grants a midlevel movement-speed boost.\n\0"
+  - contents:
+      text:
+        - "Grants a high-level movement-speed boost.\n\0"
+  - contents:
+      text:
+        - "Grants a low-level attack-power boost.\n\0"
+  - contents:
+      text:
+        - "Stormy \0"
+  - contents:
+      text:
+        - "Grants a midlevel resistance to electricity.\nUseful against enemies with electrical\nattacks.\0"
+  - contents:
+      text:
+        - "Chilly \0"
+  - contents:
+      text:
+        - "Grants a high-level resistance to electricity.\nUseful against enemies with electrical\nattacks.\0"
+  - contents:
+      text:
+        - "Bright \0"
+  - contents:
+      text:
+        - "Warding \0"
+  - contents:
+      text:
+        - "Grants high-level heat resistance.\n\0"
+  - contents:
+      text:
+        - "Sunny \0"
+  - contents:
+      text:
+        - "Grants midlevel gloom protection.\n\0"
+  - contents:
+      text:
+        - "Grants high-level gloom protection.\n\0"
+  - contents:
+      text:
+        - "Restores your stamina, which is used when\nperforming physical actions such as \nclimbing walls or swimming.\0"
+  - contents:
+      text:
+        - "Energizing \0"
+  - contents:
+      text:
+        - "Instantly refills some of your Stamina Wheel.\n\0"
+  - contents:
+      text:
+        - "Grants a low-level swim-speed boost.\n\0"
+  - contents:
+      text:
+        - "Biting \0"
+  - contents:
+      text:
+        - "Sunny \0"
+  - contents:
+      text:
+        - "Hearty \0"
+  - contents:
+      text:
+        - "Rapid \0"
+  - contents:
+      text:
+        - "Electro \0"
+  - contents:
+      text:
+        - "Tough \0"
+  - contents:
+      text:
+        - "Hasty \0"
+  - contents:
+      text:
+        - "Grants a midlevel attack enhancement in\nhot places.\n\0"
+  - contents:
+      text:
+        - "Grants a low-level glow effect, illuminating\nyour immediate surroundings. This faint\nluminescence is a boon in dark places.\0"
+  - contents:
+      text:
+        - "Enduring \0"
+  - contents:
+      text:
+        - "Grants a midlevel attack-power boost.\n\0"
+  - contents:
+      text:
+        - "Sneaky \0"
+  - contents:
+      text:
+        - "Sticky \0"
+  - contents:
+      text:
+        - "Grants a midlevel stealth effect, which\ncalms the nerves and silences footfalls.\nAllows you to move about undetected by\nmonsters and animals.\0"
+  - contents:
+      text:
+        - "Grants a high-level attack-power boost.\n\0"
+  - contents:
+      text:
+        - "Fireproof \0"
+  - contents:
+      text:
+        - "Sticky \0"
+  - contents:
+      text:
+        - "Grants a high-level stealth effect, which\ncalms the nerves and silences footfalls.\nAllows you to move about undetected by\nmonsters and animals.\0"
+  - contents:
+      text:
+        - "Enduring \0"
+  - contents:
+      text:
+        - "Grants a midlevel swim-speed boost.\n\0"
+  - contents:
+      text:
+        - "Grants a midlevel slip resistance to keep you\nfrom slipping on wet surfaces. Its highly\nabsorptive ingredients make it a must-have\nfor sudden rainfalls.\0"
+  - contents:
+      text:
+        - "Biting \0"
+  - contents:
+      text:
+        - "Tough \0"
+  - contents:
+      text:
+        - "Grants a midlevel toughness effect, which\nfortifies your bones to strengthen your\ndefense. Best to use before facing off\nagainst hard-hitting enemies.\0"
+  - contents:
+      text:
+        - "Grants a high-level slip resistance to keep\nyou from slipping on wet surfaces. Its highly\nabsorptive ingredients make it a must-have\nfor sudden rainfalls.\0"
+  - contents:
+      text:
+        - "Grants low-level gloom protection.\n\0"
+  - contents:
+      text:
+        - "Grants a low-level resistance to electricity.\nUseful against enemies with electrical\nattacks.\0"
+  - contents:
+      text:
+        - "Grants a high-level toughness effect, which\nfortifies your bones to strengthen your\ndefense. Best to use before facing off\nagainst hard-hitting enemies.\0"
