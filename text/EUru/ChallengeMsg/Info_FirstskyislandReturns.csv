@@ -1,0 +1,9 @@
+﻿Label,String
+Name,"Name"
+BeforeGame,"BeforeGame"
+InGameWhenActiveTorchNumIs0,"InGameWhenActiveTorchNumIs0"
+Complete,"Complete"
+ReturnReady,"ReturnReady"
+InGameWhenActiveTorchNumIs1,"InGameWhenActiveTorchNumIs1"
+GameClear,"GameClear"
+InGameWhenActiveTorchNumIs2,"InGameWhenActiveTorchNumIs2"

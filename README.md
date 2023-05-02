@@ -10,8 +10,18 @@ Most data will be contained within the "Text" folder, but there are several nota
 
 **Language Codes**
 
-- USen (English)
+- CNzh (Chinese)
+- EUde (German)
+- EUen (European English)
+- EUes (European Spanish)
+- EUfr (European French)
+- EUit (European Italian)
+- EUru (Russian)
 - JPja (Japanese)
+- KRko (Korean)
+- USen (North American English)
+- USes (Spanish)
+- USfr (North American French)
 
 # Notable Files
 
