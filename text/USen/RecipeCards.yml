@@ -1,0 +1,53 @@
+!FirstPlugin.MSYT+MessageHeader,%2520FirstPlugin.Plg,%2520Version=1.0.202.0,%2520Culture=neutral,%2520PublicKeyToken=null
+entries:
+  - contents:
+      text:
+        - "\x0E\x02\x02,&SimpleIntForMessage\xFFFF촁\0"
+  - contents:
+      text:
+        - "Not enough ingredients.\0"
+  - contents:
+      text:
+        - "\x0E\x02%\0\0"
+  - contents:
+      text:
+        - "NEW\0"
+  - contents:
+      text:
+        - "Dishes with This Ingredient\0"
+  - contents:
+      text:
+        - "\x0E\x02\x0F,&SimpleIntForMessage\xFFFF촁/\x0E\x02\x0F.(SimpleIntForMessage2\xFFFF촁\0"
+  - contents:
+      text:
+        - "Hold ingredients\0"
+  - contents:
+      text:
+        - "Full recovery\0"
+  - contents:
+      text:
+        - "\x0E\x02\x15*&SimpleIntForMessage\xFFFF other \x0EÉ\x06 \frecipe\x0Erecipes\0\0"
+  - contents:
+      text:
+        - "Full recovery\0"
+  - contents:
+      text:
+        - "+\0"
+  - contents:
+      text:
+        - "Ingredients\0"
+  - contents:
+      text:
+        - "+\0"
+  - contents:
+      text:
+        - "+\0"
+  - contents:
+      text:
+        - "+\0"
+  - contents:
+      text:
+        - "View history\0"
+  - contents:
+      text:
+        - "Registered\0"

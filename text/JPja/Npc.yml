@@ -1,0 +1,2213 @@
+!FirstPlugin.MSYT+MessageHeader,%2520FirstPlugin.Plg,%2520Version=1.0.202.0,%2520Culture=neutral,%2520PublicKeyToken=null
+entries:
+  - contents:
+      text:
+        - "イーガ団 構成員\0"
+  - contents:
+      text:
+        - "ドーネイ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fだいようせい大妖精 クチューラ\0"
+  - contents:
+      text:
+        - "ラズリ\0"
+  - contents:
+      text:
+        - "シラン\0"
+  - contents:
+      text:
+        - "ボブル\0"
+  - contents:
+      text:
+        - "ポドマ\0"
+  - contents:
+      text:
+        - "コノタケ\0"
+  - contents:
+      text:
+        - "ビーダ\0"
+  - contents:
+      text:
+        - "キザリス\0"
+  - contents:
+      text:
+        - "ポンテ\0"
+  - contents:
+      text:
+        - "プルアの\x0E\0\0\n\x04\x06にっき日記\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fちょうさいん調査員\0"
+  - contents:
+      text:
+        - "モウゼン\0"
+  - contents:
+      text:
+        - "ブロハン\0"
+  - contents:
+      text:
+        - "エメリ\0"
+  - contents:
+      text:
+        - "サリーボ\0"
+  - contents:
+      text:
+        - "ガガーモ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれん製錬ゴーレム\0"
+  - contents:
+      text:
+        - "ウワサのミツバちゃん\0"
+  - contents:
+      text:
+        - "古ぼけたノート\0"
+  - contents:
+      text:
+        - "ボイコン\0"
+  - contents:
+      text:
+        - "ソリレス\0"
+  - contents:
+      text:
+        - "ユータス\0"
+  - contents:
+      text:
+        - "ビューラ\0"
+  - contents:
+      text:
+        - "シェバ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fちょうさいん調査員\0"
+  - contents:
+      text:
+        - "ソウヘイ\0"
+  - contents:
+      text:
+        - "ドリジャン\0"
+  - contents:
+      text:
+        - "デランタ\0"
+  - contents:
+      text:
+        - "フラーバ\0"
+  - contents:
+      text:
+        - "ヘチマル\0"
+  - contents:
+      text:
+        - "ジュン\0"
+  - contents:
+      text:
+        - "コダー\0"
+  - contents:
+      text:
+        - "ドゥンマ\0"
+  - contents:
+      text:
+        - "バレッタ\0"
+  - contents:
+      text:
+        - "ラーハ\0"
+  - contents:
+      text:
+        - "カズナビ\0"
+  - contents:
+      text:
+        - "リガニー\0"
+  - contents:
+      text:
+        - "監視所の日誌\0"
+  - contents:
+      text:
+        - "スコルピス\0"
+  - contents:
+      text:
+        - "ネリッシュ\0"
+  - contents:
+      text:
+        - "パウダ\0"
+  - contents:
+      text:
+        - "リーシャ\0"
+  - contents:
+      text:
+        - "ススアナ\0"
+  - contents:
+      text:
+        - "ランジア\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x1E\f\x1Aうまやどかいいんだいちょう馬宿会員台帳\0"
+  - contents:
+      text:
+        - "ウィッダの日記\0"
+  - contents:
+      text:
+        - "シモツケ\0"
+  - contents:
+      text:
+        - "ミモザ\0"
+  - contents:
+      text:
+        - "ハルリ\0"
+  - contents:
+      text:
+        - "ネルフェン\0"
+  - contents:
+      text:
+        - "アナダ\0"
+  - contents:
+      text:
+        - "アシゲル\0"
+  - contents:
+      text:
+        - "ゴスティン\0"
+  - contents:
+      text:
+        - "マカマカ\0"
+  - contents:
+      text:
+        - "オルイル\0"
+  - contents:
+      text:
+        - "エン\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bたびびと旅人\0"
+  - contents:
+      text:
+        - "バテジー\0"
+  - contents:
+      text:
+        - "イートン\0"
+  - contents:
+      text:
+        - "トンジャガ\0"
+  - contents:
+      text:
+        - "ヤトッコ\0"
+  - contents:
+      text:
+        - "ボテンサ\0"
+  - contents:
+      text:
+        - "デルタン\0"
+  - contents:
+      text:
+        - "ダンセン\0"
+  - contents:
+      text:
+        - "モクセン\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fちょうさいん調査員\0"
+  - contents:
+      text:
+        - "マサーキィ\0"
+  - contents:
+      text:
+        - "ソエ\0"
+  - contents:
+      text:
+        - "オキク\0"
+  - contents:
+      text:
+        - "ゾローナ\0"
+  - contents:
+      text:
+        - "パクト\0"
+  - contents:
+      text:
+        - "ワトル\0"
+  - contents:
+      text:
+        - "ズッキー\0"
+  - contents:
+      text:
+        - "ロブスタ\0"
+  - contents:
+      text:
+        - "フレヴァ\0"
+  - contents:
+      text:
+        - "メグ\0"
+  - contents:
+      text:
+        - "ホルトス\0"
+  - contents:
+      text:
+        - "ロレル\0"
+  - contents:
+      text:
+        - "グラレンス\0"
+  - contents:
+      text:
+        - "ロン\0"
+  - contents:
+      text:
+        - "チャズル\0"
+  - contents:
+      text:
+        - "ジョアダ\0"
+  - contents:
+      text:
+        - "ピルエ\0"
+  - contents:
+      text:
+        - "プンクラ\0"
+  - contents:
+      text:
+        - "バレー\0"
+  - contents:
+      text:
+        - "ベリス\0"
+  - contents:
+      text:
+        - "デンドン\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06だいく大工ゴーレム\0"
+  - contents:
+      text:
+        - "カーティ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fちょうさいん調査員\0"
+  - contents:
+      text:
+        - "ププンダ\0"
+  - contents:
+      text:
+        - "ナズリー\0"
+  - contents:
+      text:
+        - "マップラ\0"
+  - contents:
+      text:
+        - "ブート\0"
+  - contents:
+      text:
+        - "バンジーデ\0"
+  - contents:
+      text:
+        - "キワーノ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "おしゃれな\x0E\0\0\b\x02\x04ひと人\0"
+  - contents:
+      text:
+        - "イーガ団 構成員\0"
+  - contents:
+      text:
+        - "トカチン\0"
+  - contents:
+      text:
+        - "キルトン\0"
+  - contents:
+      text:
+        - "キヅタ\0"
+  - contents:
+      text:
+        - "イーガ団 幹部\0"
+  - contents:
+      text:
+        - "カッペラ\0"
+  - contents:
+      text:
+        - "ラジャ\0"
+  - contents:
+      text:
+        - "プラト\0"
+  - contents:
+      text:
+        - "セローラ\0"
+  - contents:
+      text:
+        - "ナモミン\0"
+  - contents:
+      text:
+        - "ティクル\0"
+  - contents:
+      text:
+        - "ベローア\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれん製錬ゴーレム\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nめがみぞう女神像\0"
+  - contents:
+      text:
+        - "ゼルダの\x0E\0\0\n\x04\x06にっき日記\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x1A\f\x16せきばんかいどくきろく石板解読記録\0"
+  - contents:
+      text:
+        - "タラテラ\0"
+  - contents:
+      text:
+        - "ヒール\0"
+  - contents:
+      text:
+        - "ナララ\0"
+  - contents:
+      text:
+        - "テドゥーラ\0"
+  - contents:
+      text:
+        - "パーム\0"
+  - contents:
+      text:
+        - "ヤイドラー\0"
+  - contents:
+      text:
+        - "ドナイト\0"
+  - contents:
+      text:
+        - "ラキム\0"
+  - contents:
+      text:
+        - "ジョシュア\0"
+  - contents:
+      text:
+        - "ネック\0"
+  - contents:
+      text:
+        - "ギザン\0"
+  - contents:
+      text:
+        - "メロ\0"
+  - contents:
+      text:
+        - "ラッセル\0"
+  - contents:
+      text:
+        - "ミミーナ\0"
+  - contents:
+      text:
+        - "ギャロ\0"
+  - contents:
+      text:
+        - "リキュウ\0"
+  - contents:
+      text:
+        - "ルーカ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bさいくつ採掘ゴーレム\0"
+  - contents:
+      text:
+        - "ドレファン\0"
+  - contents:
+      text:
+        - "ユンの日記\0"
+  - contents:
+      text:
+        - "ダーコン\0"
+  - contents:
+      text:
+        - "チプレッダ\0"
+  - contents:
+      text:
+        - "ギネマー\0"
+  - contents:
+      text:
+        - "ユノシタ\0"
+  - contents:
+      text:
+        - "ポンド\0"
+  - contents:
+      text:
+        - "セファーロ\0"
+  - contents:
+      text:
+        - "ロレル\0"
+  - contents:
+      text:
+        - "ガミョー\0"
+  - contents:
+      text:
+        - "フタバ\0"
+  - contents:
+      text:
+        - "ガトリン\0"
+  - contents:
+      text:
+        - "リッスン\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "リトバン\0"
+  - contents:
+      text:
+        - "オコバ\0"
+  - contents:
+      text:
+        - "クサヨシ\0"
+  - contents:
+      text:
+        - "インブリー\0"
+  - contents:
+      text:
+        - "サンゴバ\0"
+  - contents:
+      text:
+        - "メルエナ\0"
+  - contents:
+      text:
+        - "リツト\0"
+  - contents:
+      text:
+        - "ビスカ\0"
+  - contents:
+      text:
+        - "ラ・タームの\x0E\0\0\x14\b\x10りょうりてちょう料理手帳①\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fちょうさいん調査員\0"
+  - contents:
+      text:
+        - "ボーノン\0"
+  - contents:
+      text:
+        - "ミモジ\0"
+  - contents:
+      text:
+        - "ククレン\0"
+  - contents:
+      text:
+        - "ラッシャー\0"
+  - contents:
+      text:
+        - "カーシャ\0"
+  - contents:
+      text:
+        - "サグル\0"
+  - contents:
+      text:
+        - "ノール\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fちょうさいん調査員\0"
+  - contents:
+      text:
+        - "イーガ団 構成員\0"
+  - contents:
+      text:
+        - "リュネ\0"
+  - contents:
+      text:
+        - "チューミン\0"
+  - contents:
+      text:
+        - "サバッキャ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれん製錬ゴーレム\0"
+  - contents:
+      text:
+        - "ドラピ\0"
+  - contents:
+      text:
+        - "ダミダミ\0"
+  - contents:
+      text:
+        - "カーラ\0"
+  - contents:
+      text:
+        - "ランジェ\0"
+  - contents:
+      text:
+        - "ブロウ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fだいようせい大妖精 シーザ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x1A\f\x16せきばんかいどくきろく石板解読記録\0"
+  - contents:
+      text:
+        - "ラムーズ\0"
+  - contents:
+      text:
+        - "プーリオ\0"
+  - contents:
+      text:
+        - "ソテツ\0"
+  - contents:
+      text:
+        - "タマナ\0"
+  - contents:
+      text:
+        - "ブグリ\0"
+  - contents:
+      text:
+        - "ラボーラ\0"
+  - contents:
+      text:
+        - "セゴン\0"
+  - contents:
+      text:
+        - "コーガ\0"
+  - contents:
+      text:
+        - "イーガ団 幹部\0"
+  - contents:
+      text:
+        - "イムタ\0"
+  - contents:
+      text:
+        - "パドーク\0"
+  - contents:
+      text:
+        - "グリグリ\0"
+  - contents:
+      text:
+        - "ボガード\0"
+  - contents:
+      text:
+        - "シミナー\0"
+  - contents:
+      text:
+        - "コウゾー\0"
+  - contents:
+      text:
+        - "レス\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bさいくつ採掘ゴーレム\0"
+  - contents:
+      text:
+        - "プルアパッド取扱説明書\0"
+  - contents:
+      text:
+        - "ギロッチョ\0"
+  - contents:
+      text:
+        - "アジテータ\0"
+  - contents:
+      text:
+        - "コグ\0"
+  - contents:
+      text:
+        - "セセリー\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bかりうど狩人ゴーレム\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれん製錬ゴーレム\0"
+  - contents:
+      text:
+        - "デクの\x0E\0\0\x06\x02\x02き樹サマ\0"
+  - contents:
+      text:
+        - "カリーユの\x0E\0\0\n\x04\x06にっき日記\0"
+  - contents:
+      text:
+        - "タウロ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fちょうさいん調査員\0"
+  - contents:
+      text:
+        - "スレミー\0"
+  - contents:
+      text:
+        - "ベントーサ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "イーガ団 構成員\0"
+  - contents:
+      text:
+        - "エージャン\0"
+  - contents:
+      text:
+        - "ムティ\0"
+  - contents:
+      text:
+        - "メンター\0"
+  - contents:
+      text:
+        - "ミノール\0"
+  - contents:
+      text:
+        - "モッコー\0"
+  - contents:
+      text:
+        - "チーク\0"
+  - contents:
+      text:
+        - "ヤーメス\0"
+  - contents:
+      text:
+        - "ノボタン\0"
+  - contents:
+      text:
+        - "ウィッダ\0"
+  - contents:
+      text:
+        - "カンカン\0"
+  - contents:
+      text:
+        - "イルーネ\0"
+  - contents:
+      text:
+        - "ラートレー\0"
+  - contents:
+      text:
+        - "ドダンツ\0"
+  - contents:
+      text:
+        - "ブショー\0"
+  - contents:
+      text:
+        - "マキュア\0"
+  - contents:
+      text:
+        - "オサジ\0"
+  - contents:
+      text:
+        - "フィネ\0"
+  - contents:
+      text:
+        - "イーガ団手帳\0"
+  - contents:
+      text:
+        - "イーガ団 構成員\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fだいようせい大妖精 ミジャー\0"
+  - contents:
+      text:
+        - "トッチー\0"
+  - contents:
+      text:
+        - "キギワケ\0"
+  - contents:
+      text:
+        - "キャリバン\0"
+  - contents:
+      text:
+        - "ワスク\0"
+  - contents:
+      text:
+        - "アンテ\0"
+  - contents:
+      text:
+        - "トリムス\0"
+  - contents:
+      text:
+        - "フーゴー\0"
+  - contents:
+      text:
+        - "モモ\0"
+  - contents:
+      text:
+        - "シャラック\0"
+  - contents:
+      text:
+        - "リップス\0"
+  - contents:
+      text:
+        - "フーライ\0"
+  - contents:
+      text:
+        - "クジョー\0"
+  - contents:
+      text:
+        - "キッシュ\0"
+  - contents:
+      text:
+        - "セージ\0"
+  - contents:
+      text:
+        - "カツラダ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "カベータの日記\0"
+  - contents:
+      text:
+        - "グラネッダ\0"
+  - contents:
+      text:
+        - "リーキ\0"
+  - contents:
+      text:
+        - "ナン\0"
+  - contents:
+      text:
+        - "パーヤ\0"
+  - contents:
+      text:
+        - "ランディ\0"
+  - contents:
+      text:
+        - "プレスタ\0"
+  - contents:
+      text:
+        - "ミツバ\0"
+  - contents:
+      text:
+        - "カットル\0"
+  - contents:
+      text:
+        - "メキャプ\0"
+  - contents:
+      text:
+        - "ヒナバガン\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06だいく大工ゴーレム\0"
+  - contents:
+      text:
+        - "コップス\0"
+  - contents:
+      text:
+        - "プレル\0"
+  - contents:
+      text:
+        - "ミロヤン\0"
+  - contents:
+      text:
+        - "スレッタ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fちょうさいん調査員\0"
+  - contents:
+      text:
+        - "マルート\0"
+  - contents:
+      text:
+        - "おしゃれな\x0E\0\0\b\x02\x04ひと人\0"
+  - contents:
+      text:
+        - "ルコダ\0"
+  - contents:
+      text:
+        - "マデリン\0"
+  - contents:
+      text:
+        - "ゴエタフ\0"
+  - contents:
+      text:
+        - "カンボ\0"
+  - contents:
+      text:
+        - "ペディ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fだいようせい大妖精 クチューラ\0"
+  - contents:
+      text:
+        - "リトの\x0E\0\0\f\x04\bぶんけん文献\0"
+  - contents:
+      text:
+        - "アオタ\0"
+  - contents:
+      text:
+        - "フレグラ\0"
+  - contents:
+      text:
+        - "チシャ\0"
+  - contents:
+      text:
+        - "ササノ\0"
+  - contents:
+      text:
+        - "トックリ\0"
+  - contents:
+      text:
+        - "マーロン\0"
+  - contents:
+      text:
+        - "ネンテス\0"
+  - contents:
+      text:
+        - "モロヘイ\0"
+  - contents:
+      text:
+        - "シトラ\0"
+  - contents:
+      text:
+        - "ペパパ\0"
+  - contents:
+      text:
+        - "グリフト\0"
+  - contents:
+      text:
+        - "マーパ\0"
+  - contents:
+      text:
+        - "ビーツ\0"
+  - contents:
+      text:
+        - "チョウハン\0"
+  - contents:
+      text:
+        - "ショー\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bたびびと旅人\0"
+  - contents:
+      text:
+        - "ボーリン\0"
+  - contents:
+      text:
+        - "タバウマ\0"
+  - contents:
+      text:
+        - "フロス\0"
+  - contents:
+      text:
+        - "シーバ\0"
+  - contents:
+      text:
+        - "シイダ\0"
+  - contents:
+      text:
+        - "ハギ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれん製錬ゴーレム\0"
+  - contents:
+      text:
+        - "ケート\0"
+  - contents:
+      text:
+        - "チコ\0"
+  - contents:
+      text:
+        - "アクレット\0"
+  - contents:
+      text:
+        - "チャリオ\0"
+  - contents:
+      text:
+        - "テバ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれん製錬ゴーレム\0"
+  - contents:
+      text:
+        - "ルールブック\0"
+  - contents:
+      text:
+        - "プリトス\0"
+  - contents:
+      text:
+        - "イグレッタ\0"
+  - contents:
+      text:
+        - "ベンジャミン\0"
+  - contents:
+      text:
+        - "ドミダク\0"
+  - contents:
+      text:
+        - "ゼルダの\x0E\0\0\b\x02\x04こえ声\0"
+  - contents:
+      text:
+        - "イーガ団 構成員\0"
+  - contents:
+      text:
+        - "バンクシャー\0"
+  - contents:
+      text:
+        - "トコユ\0"
+  - contents:
+      text:
+        - "ソティス\0"
+  - contents:
+      text:
+        - "フラジィ\0"
+  - contents:
+      text:
+        - "バテック\0"
+  - contents:
+      text:
+        - "フーキュ\0"
+  - contents:
+      text:
+        - "ジアート\0"
+  - contents:
+      text:
+        - "ナコ\0"
+  - contents:
+      text:
+        - "マーオウ\0"
+  - contents:
+      text:
+        - "ヴァーケン\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bさいくつ採掘ゴーレム\0"
+  - contents:
+      text:
+        - "ミササのレシピ\x0E\0\0\n\x02\x06ちょう帳\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fちょうさいん調査員\0"
+  - contents:
+      text:
+        - "ベラ\0"
+  - contents:
+      text:
+        - "スプリン\0"
+  - contents:
+      text:
+        - "ミネル\0"
+  - contents:
+      text:
+        - "クタン\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fだいようせい大妖精 ミジャー\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bたびびと旅人\0"
+  - contents:
+      text:
+        - "イーガ団 構成員\0"
+  - contents:
+      text:
+        - "ツワブキ\0"
+  - contents:
+      text:
+        - "ロレルの\x0E\0\0\x06\x02\x02か書き\x0E\0\0\x06\x02\x02お置き\0"
+  - contents:
+      text:
+        - "イーガ団 幹部\0"
+  - contents:
+      text:
+        - "オゼーユ\0"
+  - contents:
+      text:
+        - "コサエル\0"
+  - contents:
+      text:
+        - "ジョウゴ\0"
+  - contents:
+      text:
+        - "オリベー\0"
+  - contents:
+      text:
+        - "ダズィー\0"
+  - contents:
+      text:
+        - "シャークス\0"
+  - contents:
+      text:
+        - "パール\0"
+  - contents:
+      text:
+        - "エテス\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "ブリセン\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x12\x06\x0Eれんらくちょう連絡帖\0"
+  - contents:
+      text:
+        - "ナノーテ\0"
+  - contents:
+      text:
+        - "モッタ\0"
+  - contents:
+      text:
+        - "ナブ\0"
+  - contents:
+      text:
+        - "ルージュ\0"
+  - contents:
+      text:
+        - "ヴェニー\0"
+  - contents:
+      text:
+        - "スマティ\0"
+  - contents:
+      text:
+        - "ロブリッコ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nめがみぞう女神像\0"
+  - contents:
+      text:
+        - "ハーツ\0"
+  - contents:
+      text:
+        - "タッサレン\0"
+  - contents:
+      text:
+        - "フィン\0"
+  - contents:
+      text:
+        - "ヨメナ\0"
+  - contents:
+      text:
+        - "ボックリン\0"
+  - contents:
+      text:
+        - "パラガス\0"
+  - contents:
+      text:
+        - "ムズリ\0"
+  - contents:
+      text:
+        - "プルア\0"
+  - contents:
+      text:
+        - "ゴングロン\0"
+  - contents:
+      text:
+        - "ルーサン\0"
+  - contents:
+      text:
+        - "シュシュ\0"
+  - contents:
+      text:
+        - "ヌマヒノ\0"
+  - contents:
+      text:
+        - "ジョラム\0"
+  - contents:
+      text:
+        - "マンサク\0"
+  - contents:
+      text:
+        - "コログ\0"
+  - contents:
+      text:
+        - "ネギュイ\0"
+  - contents:
+      text:
+        - "ゲーラック\0"
+  - contents:
+      text:
+        - "ネスト\0"
+  - contents:
+      text:
+        - "ディショーナ\0"
+  - contents:
+      text:
+        - "カボック\0"
+  - contents:
+      text:
+        - "スババ\0"
+  - contents:
+      text:
+        - "イライザ\0"
+  - contents:
+      text:
+        - "ゴマナ\0"
+  - contents:
+      text:
+        - "コーム\0"
+  - contents:
+      text:
+        - "モンキ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fちょうさいん調査員\0"
+  - contents:
+      text:
+        - "サイラック\0"
+  - contents:
+      text:
+        - "クヌギダ\0"
+  - contents:
+      text:
+        - "グレーダ\0"
+  - contents:
+      text:
+        - "コリーネ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "クサヨシの\x0E\0\0\n\x04\x06にっき日記\0"
+  - contents:
+      text:
+        - "おしゃれな\x0E\0\0\b\x02\x04ひと人\0"
+  - contents:
+      text:
+        - "イーガ団 構成員\0"
+  - contents:
+      text:
+        - "タツノ\0"
+  - contents:
+      text:
+        - "キキョウ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "よろずお悩み帖\0"
+  - contents:
+      text:
+        - "ブーゲン\0"
+  - contents:
+      text:
+        - "フガク\0"
+  - contents:
+      text:
+        - "ドディ\0"
+  - contents:
+      text:
+        - "ログロ\0"
+  - contents:
+      text:
+        - "ソフォラ\0"
+  - contents:
+      text:
+        - "イチヨウ\0"
+  - contents:
+      text:
+        - "リムーバ\0"
+  - contents:
+      text:
+        - "アージュ\0"
+  - contents:
+      text:
+        - "ムバキュ\0"
+  - contents:
+      text:
+        - "ピノア\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x1A\f\x16せきばんかいどくきろく石板解読記録\0"
+  - contents:
+      text:
+        - "コルギ\0"
+  - contents:
+      text:
+        - "ケヤキダ\0"
+  - contents:
+      text:
+        - "ブリンカ\0"
+  - contents:
+      text:
+        - "セルチコ\0"
+  - contents:
+      text:
+        - "ナツユキ\0"
+  - contents:
+      text:
+        - "ナタネ\0"
+  - contents:
+      text:
+        - "マッツ\0"
+  - contents:
+      text:
+        - "ストラドン\0"
+  - contents:
+      text:
+        - "ハーニー\0"
+  - contents:
+      text:
+        - "フララット\0"
+  - contents:
+      text:
+        - "アギプット\0"
+  - contents:
+      text:
+        - "イーガ団 幹部\0"
+  - contents:
+      text:
+        - "チャビー\0"
+  - contents:
+      text:
+        - "キール\0"
+  - contents:
+      text:
+        - "ナーキン\0"
+  - contents:
+      text:
+        - "ブツクサ\0"
+  - contents:
+      text:
+        - "コルテン\0"
+  - contents:
+      text:
+        - "アリオーヌ\0"
+  - contents:
+      text:
+        - "ウドー\0"
+  - contents:
+      text:
+        - "ガラトン\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bかりうど狩人ゴーレム\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06かんり管理ゴーレム\0"
+  - contents:
+      text:
+        - "タッカ\0"
+  - contents:
+      text:
+        - "ステイヤ\0"
+  - contents:
+      text:
+        - "ブルドー\0"
+  - contents:
+      text:
+        - "ホロルダ\0"
+  - contents:
+      text:
+        - "ミササ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bちょうり調理ゴーレム\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれん製錬ゴーレム\0"
+  - contents:
+      text:
+        - "ガジュア\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "トロット\0"
+  - contents:
+      text:
+        - "カラッセ\0"
+  - contents:
+      text:
+        - "マエスト\0"
+  - contents:
+      text:
+        - "マッシマ\0"
+  - contents:
+      text:
+        - "シシナタ\0"
+  - contents:
+      text:
+        - "タバルト\0"
+  - contents:
+      text:
+        - "ツィーザ\0"
+  - contents:
+      text:
+        - "バッキニー\0"
+  - contents:
+      text:
+        - "ブリーン\0"
+  - contents:
+      text:
+        - "タンクロ\0"
+  - contents:
+      text:
+        - "ユン\x0E\0\0\b\x02\x04ぼう坊\0"
+  - contents:
+      text:
+        - "ロダンテ\0"
+  - contents:
+      text:
+        - "アスパ\0"
+  - contents:
+      text:
+        - "アズキ\0"
+  - contents:
+      text:
+        - "マッカラ\0"
+  - contents:
+      text:
+        - "ダエトール\0"
+  - contents:
+      text:
+        - "モルデン\0"
+  - contents:
+      text:
+        - "ボロボロの\x0E\0\0\f\x04\bてちょう手帳\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x06\x06ふしぎ不思議な\x0E\0\0\b\x02\x04こえ声\0"
+  - contents:
+      text:
+        - "イーガ団 構成員\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fだいようせい大妖精 シーザ\0"
+  - contents:
+      text:
+        - "シシモ\0"
+  - contents:
+      text:
+        - "ヒフミ\0"
+  - contents:
+      text:
+        - "レトーガン\0"
+  - contents:
+      text:
+        - "カンギス\0"
+  - contents:
+      text:
+        - "コッポラ\0"
+  - contents:
+      text:
+        - "ラメラ\0"
+  - contents:
+      text:
+        - "カーン\0"
+  - contents:
+      text:
+        - "リンネル\0"
+  - contents:
+      text:
+        - "コロン\0"
+  - contents:
+      text:
+        - "\x0E\x02#\0\0"
+  - contents:
+      text:
+        - "ナルシッソ\0"
+  - contents:
+      text:
+        - "ミール\0"
+  - contents:
+      text:
+        - "ツクンダ\0"
+  - contents:
+      text:
+        - "アカエゾ\0"
+  - contents:
+      text:
+        - "エノキダ\0"
+  - contents:
+      text:
+        - "クロカンバ\0"
+  - contents:
+      text:
+        - "イッソー\0"
+  - contents:
+      text:
+        - "パージル\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "コログ\0"
+  - contents:
+      text:
+        - "ジェリン\0"
+  - contents:
+      text:
+        - "ディル\0"
+  - contents:
+      text:
+        - "コッツ\0"
+  - contents:
+      text:
+        - "ココナ\0"
+  - contents:
+      text:
+        - "ピーカン\0"
+  - contents:
+      text:
+        - "ワノリー\0"
+  - contents:
+      text:
+        - "ライナ\0"
+  - contents:
+      text:
+        - "パフュー\0"
+  - contents:
+      text:
+        - "マトリー\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06だいく大工ゴーレム\0"
+  - contents:
+      text:
+        - "グラップ\0"
+  - contents:
+      text:
+        - "サノベー\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれん製錬ゴーレム\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fだいようせい大妖精 テーラ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fちょうさいん調査員\0"
+  - contents:
+      text:
+        - "ジャトラ\0"
+  - contents:
+      text:
+        - "パリッセ\0"
+  - contents:
+      text:
+        - "ワビスケ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "ゼルダ\0"
+  - contents:
+      text:
+        - "タチボウ\0"
+  - contents:
+      text:
+        - "ヨレール\0"
+  - contents:
+      text:
+        - "ラッシュ\0"
+  - contents:
+      text:
+        - "ツヤ\0"
+  - contents:
+      text:
+        - "テン\0"
+  - contents:
+      text:
+        - "サンフ\0"
+  - contents:
+      text:
+        - "クサヨシ\0"
+  - contents:
+      text:
+        - "ツキミ\0"
+  - contents:
+      text:
+        - "レックス\0"
+  - contents:
+      text:
+        - "ピグロ\0"
+  - contents:
+      text:
+        - "バナンナ\0"
+  - contents:
+      text:
+        - "ハッカク\0"
+  - contents:
+      text:
+        - "セミディ\0"
+  - contents:
+      text:
+        - "ヤム\0"
+  - contents:
+      text:
+        - "トリュー\0"
+  - contents:
+      text:
+        - "ディーメ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fちょうさいん調査員\0"
+  - contents:
+      text:
+        - "ピッケ\0"
+  - contents:
+      text:
+        - "チューリ\0"
+  - contents:
+      text:
+        - "フッサレン\0"
+  - contents:
+      text:
+        - "インパ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06だいく大工ゴーレム\0"
+  - contents:
+      text:
+        - "コルック\0"
+  - contents:
+      text:
+        - "トトマ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれん製錬ゴーレム\0"
+  - contents:
+      text:
+        - "シド\0"
+  - contents:
+      text:
+        - "シモン\0"
+  - contents:
+      text:
+        - "ベニコ\0"
+  - contents:
+      text:
+        - "アローマ\0"
+  - contents:
+      text:
+        - "ノビル\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fちょうさいん調査員\0"
+  - contents:
+      text:
+        - "グズリ\0"
+  - contents:
+      text:
+        - "シオン\0"
+  - contents:
+      text:
+        - "エルイグ\0"
+  - contents:
+      text:
+        - "フェーイ\0"
+  - contents:
+      text:
+        - "サヴィ\0"
+  - contents:
+      text:
+        - "カイファ\0"
+  - contents:
+      text:
+        - "ルラチュ\0"
+  - contents:
+      text:
+        - "トルフォー\0"
+  - contents:
+      text:
+        - "アンチェ\0"
+  - contents:
+      text:
+        - "マッタリ\0"
+  - contents:
+      text:
+        - "リーセ\0"
+  - contents:
+      text:
+        - "ローゼル\0"
+  - contents:
+      text:
+        - "ケヤキダ\0"
+  - contents:
+      text:
+        - "ハック\0"
+  - contents:
+      text:
+        - "チャック\0"
+  - contents:
+      text:
+        - "スベニア\0"
+  - contents:
+      text:
+        - "ハキーノ\0"
+  - contents:
+      text:
+        - "古ぼけたノート\0"
+  - contents:
+      text:
+        - "イーガ団 構成員\0"
+  - contents:
+      text:
+        - "ワターゲン\0"
+  - contents:
+      text:
+        - "イーガ団 幹部\0"
+  - contents:
+      text:
+        - "トンミ\0"
+  - contents:
+      text:
+        - "ジュノー\0"
+  - contents:
+      text:
+        - "シャーメ\0"
+  - contents:
+      text:
+        - "クラリ\0"
+  - contents:
+      text:
+        - "ナトゥー\0"
+  - contents:
+      text:
+        - "ネルー\0"
+  - contents:
+      text:
+        - "パドル\0"
+  - contents:
+      text:
+        - "ヴィオラン\0"
+  - contents:
+      text:
+        - "ケン\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06だいく大工ゴーレム\0"
+  - contents:
+      text:
+        - "ゼルダの\x0E\0\0\n\x04\x06にっき日記\0"
+  - contents:
+      text:
+        - "バルダス\0"
+  - contents:
+      text:
+        - "ドリルド\0"
+  - contents:
+      text:
+        - "デューク\0"
+  - contents:
+      text:
+        - "セン\0"
+  - contents:
+      text:
+        - "ユーリ\0"
+  - contents:
+      text:
+        - "ピーロ\0"
+  - contents:
+      text:
+        - "モナリー\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\b\fてんぺんちい天変地異についての\x0E\0\0\f\x04\bこうさつ考察\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nあくまぞう悪魔像\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fちょうさいん調査員\0"
+  - contents:
+      text:
+        - "オッズ\0"
+  - contents:
+      text:
+        - "ダート\0"
+  - contents:
+      text:
+        - "アイヤ\0"
+  - contents:
+      text:
+        - "エナシマ\0"
+  - contents:
+      text:
+        - "テリー\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "カポーダ\0"
+  - contents:
+      text:
+        - "ツクンダの日誌\0"
+  - contents:
+      text:
+        - "ラウル\0"
+  - contents:
+      text:
+        - "ソープ\0"
+  - contents:
+      text:
+        - "カベータ\0"
+  - contents:
+      text:
+        - "カリーユ\0"
+  - contents:
+      text:
+        - "モレスプゥ\0"
+  - contents:
+      text:
+        - "エクティス\0"
+  - contents:
+      text:
+        - "ボンゴ\0"
+  - contents:
+      text:
+        - "カチュー\0"
+  - contents:
+      text:
+        - "イーガ団 構成員\0"
+  - contents:
+      text:
+        - "ナツ\0"
+  - contents:
+      text:
+        - "ウメ\0"
+  - contents:
+      text:
+        - "オラク\0"
+  - contents:
+      text:
+        - "ナズビー\0"
+  - contents:
+      text:
+        - "ロスーリ\0"
+  - contents:
+      text:
+        - "ミネル\0"
+  - contents:
+      text:
+        - "カバンダ\0"
+  - contents:
+      text:
+        - "トーテツ\0"
+  - contents:
+      text:
+        - "ホーロ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06だいく大工ゴーレム\0"
+  - contents:
+      text:
+        - "ラ・タームの\x0E\0\0\x14\b\x10りょうりてちょう料理手帳②\0"
+  - contents:
+      text:
+        - "コログ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fちょうさいん調査員\0"
+  - contents:
+      text:
+        - "ツクンダ\0"
+  - contents:
+      text:
+        - "ペーダ\0"
+  - contents:
+      text:
+        - "エノコ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "ロベリー\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bたびびと旅人\0"
+  - contents:
+      text:
+        - "イーガ団 構成員\0"
+  - contents:
+      text:
+        - "コガンコ\0"
+  - contents:
+      text:
+        - "ブレードン\0"
+  - contents:
+      text:
+        - "サゴノ\0"
+  - contents:
+      text:
+        - "ラファレル\0"
+  - contents:
+      text:
+        - "ペーン\0"
+  - contents:
+      text:
+        - "キノ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06ごらい護雷の\x0E\0\0\x18\n\x14かぶとかいはつにっし兜開発日誌\0"
+  - contents:
+      text:
+        - "ルールブック\0"
+  - contents:
+      text:
+        - "パーヤの族長日記\0"
+  - contents:
+      text:
+        - "盗賊ラムダのメッセージ\0"
+  - contents:
+      text:
+        - "イーガ団 幹部\0"
+  - contents:
+      text:
+        - "イータ\0"
+  - contents:
+      text:
+        - "カズーラ\0"
+  - contents:
+      text:
+        - "タッチオ\0"
+  - contents:
+      text:
+        - "サジュ\0"
+  - contents:
+      text:
+        - "エスピ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04だい台の\x0E\0\0\b\x02\x04うえ上のメモ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x1A\f\x16せきばんかいどくきろく石板解読記録\0"
+  - contents:
+      text:
+        - "ジルバ\0"
+  - contents:
+      text:
+        - "ガスパル\0"
+  - contents:
+      text:
+        - "バケット\0"
+  - contents:
+      text:
+        - "ナギコ\0"
+  - contents:
+      text:
+        - "アイシャ\0"
+  - contents:
+      text:
+        - "アマニ\0"
+  - contents:
+      text:
+        - "ラニー\0"
+  - contents:
+      text:
+        - "ウィッダ\0"
+  - contents:
+      text:
+        - "ルージュの\x0E\0\0\n\x04\x06しゅき手記\0"
+  - contents:
+      text:
+        - "イーガ団 幹部\0"
+  - contents:
+      text:
+        - "ニルヴァー\0"
+  - contents:
+      text:
+        - "ダイ\0"
+  - contents:
+      text:
+        - "ハミラ\0"
+  - contents:
+      text:
+        - "ドゥラン\0"
+  - contents:
+      text:
+        - "アタカモ\0"
+  - contents:
+      text:
+        - "ワーシャ\0"
+  - contents:
+      text:
+        - "ボトス\0"
+  - contents:
+      text:
+        - "マピン\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06だいく大工ゴーレム\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x04\x04かじ鍛冶ゴーレム\0"
+  - contents:
+      text:
+        - "ヘオン\0"
+  - contents:
+      text:
+        - "ジーニン\0"
+  - contents:
+      text:
+        - "ツムギ\0"
+  - contents:
+      text:
+        - "サニダ\0"
+  - contents:
+      text:
+        - "レイブン\0"
+  - contents:
+      text:
+        - "シチナック\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bかりうど狩人ゴーレム\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれん製錬ゴーレム\0"
+  - contents:
+      text:
+        - "アマリリ\0"
+  - contents:
+      text:
+        - "コズミ\0"
+  - contents:
+      text:
+        - "プシャン\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "キキーモ\0"
+  - contents:
+      text:
+        - "ゴーグ\0"
+  - contents:
+      text:
+        - "ダビシス\0"
+  - contents:
+      text:
+        - "ラセニー\0"
+  - contents:
+      text:
+        - "ハマタ\0"
+  - contents:
+      text:
+        - "ロテイン\0"
+  - contents:
+      text:
+        - "ホスタ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fちょうさいん調査員\0"
+  - contents:
+      text:
+        - "ヌミエン\0"
+  - contents:
+      text:
+        - "パイルド\0"
+  - contents:
+      text:
+        - "ベルゴ\0"
+  - contents:
+      text:
+        - "リュウベ\0"
+  - contents:
+      text:
+        - "クレーヴィア\0"
+  - contents:
+      text:
+        - "ドリータ\0"
+  - contents:
+      text:
+        - "ボルドン\0"
+  - contents:
+      text:
+        - "エバリー\0"
+  - contents:
+      text:
+        - "ルトア\0"
+  - contents:
+      text:
+        - "イーガ団 構成員\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fだいようせい大妖精 テーラ\0"
+  - contents:
+      text:
+        - "ピアフェ\0"
+  - contents:
+      text:
+        - "ホレッソン\0"
+  - contents:
+      text:
+        - "ムベ\0"
+  - contents:
+      text:
+        - "イム\0"
+  - contents:
+      text:
+        - "イーガ\x0E\0\0\x0E\x06\nだんにっし団日誌\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nめがみぞう女神像\0"
+  - contents:
+      text:
+        - "ジャス\0"
+  - contents:
+      text:
+        - "シミット\0"
+  - contents:
+      text:
+        - "サキ\0"
+  - contents:
+      text:
+        - "コトン\0"
+  - contents:
+      text:
+        - "ユーフォル\0"
+  - contents:
+      text:
+        - "ファンデ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x1A\f\x16せきばんかいどくきろく石板解読記録\0"
+  - contents:
+      text:
+        - "タヌモキ\0"
+  - contents:
+      text:
+        - "ネネア\0"
+  - contents:
+      text:
+        - "アイビー\0"
+  - contents:
+      text:
+        - "サクラダ\0"
+  - contents:
+      text:
+        - "アミヴィ\0"
+  - contents:
+      text:
+        - "フリット\0"
+  - contents:
+      text:
+        - "ナッドン\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "リードウ\0"
+  - contents:
+      text:
+        - "ガノレー\0"
+  - contents:
+      text:
+        - "グラジ\0"
+  - contents:
+      text:
+        - "ゲンコ\0"
+  - contents:
+      text:
+        - "プリコ\0"
+  - contents:
+      text:
+        - "スダジイ\0"
+  - contents:
+      text:
+        - "カンポ\0"
+  - contents:
+      text:
+        - "シャボンヌ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bさいくつ採掘ゴーレム\0"
+  - contents:
+      text:
+        - "ハッシモ\0"
+  - contents:
+      text:
+        - "イッフル\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fちょうさいん調査員\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれん製錬ゴーレム\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fちょうさいん調査員\0"
+  - contents:
+      text:
+        - "マッケンバー\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06しつじ執事ゴーレム\0"
+  - contents:
+      text:
+        - "手紙が入ったボトル\0"
+  - contents:
+      text:
+        - "イーガ団 構成員\0"
+  - contents:
+      text:
+        - "モンダナ\0"
+  - contents:
+      text:
+        - "ガッシュ\0"
+  - contents:
+      text:
+        - "クーリン\0"
+  - contents:
+      text:
+        - "サゲサ\0"
+  - contents:
+      text:
+        - "ハイト\0"
+  - contents:
+      text:
+        - "ドロップ\0"
+  - contents:
+      text:
+        - "ミホ\0"
+  - contents:
+      text:
+        - "ディムチー\0"
+  - contents:
+      text:
+        - "ファンファ\0"
+  - contents:
+      text:
+        - "タデ\0"
+  - contents:
+      text:
+        - "レーゲン\0"
+  - contents:
+      text:
+        - "ムエリータ\0"
+  - contents:
+      text:
+        - "ゲンサイ\0"
+  - contents:
+      text:
+        - "トオン\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nめがみぞう女神像\0"
+  - contents:
+      text:
+        - "ゾナウ\x0E\0\0\x10\x06\fちょうさたい調査隊 3つの\x0E\0\0\f\x04\bこころえ心得\0"
+  - contents:
+      text:
+        - "ゾナウの\x0E\0\0\n\x04\x06いぶつ遺物\0"

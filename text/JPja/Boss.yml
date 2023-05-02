@@ -1,0 +1,164 @@
+!FirstPlugin.MSYT+MessageHeader,%2520FirstPlugin.Plg,%2520Version=1.0.202.0,%2520Culture=neutral,%2520PublicKeyToken=null
+entries:
+  - contents:
+      text:
+        - "ファントムガノン\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06まもの魔物の\x0E\0\0\x06\x02\x02む群れ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06まもの魔物の\x0E\0\0\x06\x02\x02む群れ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04うば奪われしゴーレム\0"
+  - contents:
+      text:
+        - "ガチロック\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06まおう魔王ガノンドロフ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06まもの魔物の\x0E\0\0\x06\x02\x02む群れ\0"
+  - contents:
+      text:
+        - "イルバジア\0"
+  - contents:
+      text:
+        - "ユン\x0E\0\0\b\x02\x04ぼう坊\0"
+  - contents:
+      text:
+        - "ゴーレムたち\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06まもの魔物の\x0E\0\0\x06\x02\x02む群れ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06まもの魔物の\x0E\0\0\x06\x02\x02む群れ\0"
+  - contents:
+      text:
+        - "マグロック\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06まもの魔物の\x0E\0\0\x06\x02\x02む群れ\0"
+  - contents:
+      text:
+        - "オクタコス\0"
+  - contents:
+      text:
+        - "イワロック\0"
+  - contents:
+      text:
+        - "イワロック\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bはくそう白蒼デグガーマ\0"
+  - contents:
+      text:
+        - "ファントムガノン\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bらいでん雷電グリオーク\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06まおう魔王ガノンドロフ\0"
+  - contents:
+      text:
+        - "イワロック\0"
+  - contents:
+      text:
+        - "フリザゲイラ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06まもの魔物の\x0E\0\0\x06\x02\x02む群れ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x04\nこくりゅう黒龍\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06まもの魔物の\x0E\0\0\x06\x02\x02む群れ\0"
+  - contents:
+      text:
+        - "コーガ\x0E\0\0\b\x02\x04さま様\0"
+  - contents:
+      text:
+        - "ブロックゴーレム\0"
+  - contents:
+      text:
+        - "ブロックゴーレム(\x0E\0\0\x0E\x04\nちゅうとう中等)\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06まもの魔物の\x0E\0\0\x06\x02\x02む群れ\0"
+  - contents:
+      text:
+        - "ヒノックス\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04あお青ヒノックス\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x04\nひょうせつ氷雪グリオーク\0"
+  - contents:
+      text:
+        - "クィンギブド\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06まおう魔王ガノンドロフの\x0E\0\0\f\x04\bぐんぜい軍勢\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06まもの魔物の\x0E\0\0\x06\x02\x02む群れ\0"
+  - contents:
+      text:
+        - "ヘドロライク\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06かえん火炎グリオーク\0"
+  - contents:
+      text:
+        - "イエロック\0"
+  - contents:
+      text:
+        - "ファントムガノン\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06まもの魔物の\x0E\0\0\x06\x02\x02む群れ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06まもの魔物の\x0E\0\0\x06\x02\x02む群れ\0"
+  - contents:
+      text:
+        - "ボルドゴーマ\0"
+  - contents:
+      text:
+        - "キンググリオーク\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06まもの魔物の\x0E\0\0\x06\x02\x02む群れ\0"
+  - contents:
+      text:
+        - "デグガーマ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bこくよう黒曜デグガーマ\0"
+  - contents:
+      text:
+        - "イーガ\x0E\0\0\b\x02\x04だん団の\x0E\0\0\x0E\x06\nけいびたい警備隊\0"
+  - contents:
+      text:
+        - "スタルヒノックス\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06まもの魔物の\x0E\0\0\x06\x02\x02む群れ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06まもの魔物の\x0E\0\0\x06\x02\x02む群れ\0"
+  - contents:
+      text:
+        - "モルドラジーク\0"
+  - contents:
+      text:
+        - "ブロックゴーレム(\x0E\0\0\x0E\x04\nじょうとう上等)\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04くろ黒ヒノックス\0"

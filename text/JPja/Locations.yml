@@ -1,0 +1,4205 @@
+!FirstPlugin.MSYT+MessageHeader,%2520FirstPlugin.Plg,%2520Version=1.0.202.0,%2520Culture=neutral,%2520PublicKeyToken=null
+entries:
+  - contents:
+      text:
+        - "バルーメ\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "パパセの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ザクスクの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "マヤオタキの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\x1A\n\x16ひがしじょうかまちあと東城下町跡\0"
+  - contents:
+      text:
+        - "スタルリ\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x18\n\x14こだいせきちゅうぐん古代石柱群\0"
+  - contents:
+      text:
+        - "ハテノ\x0E\0\0\b\x02\x04むら村\x0E\0\0\b\x02\x04きた北の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "タタヤマの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "シモシワカの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "マクルキサの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ナボール\x0E\0\0\b\x02\x04さん山\0"
+  - contents:
+      text:
+        - "ド\x0E\0\0\x0E\x04\nこんじょう根性ガケ\0"
+  - contents:
+      text:
+        - "アッカレ海 地底\0"
+  - contents:
+      text:
+        - "クレシア\x0E\0\0\x10\x06\fさいくつこう採掘坑\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nしょうきみ瘴気満ちる\x0E\0\0\n\x04\x06まくつ魔窟\0"
+  - contents:
+      text:
+        - "ローメイ\x0E\0\0\b\x02\x04とう島 地下\x0E\0\0\b\x02\x04そう層\0"
+  - contents:
+      text:
+        - "ブレッド\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "ルピ\x0E\0\0\x06\x02\x02こ湖の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "イヤススの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ヤンサミノの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ジョシウの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "シャトー\x0E\0\0\n\x02\x06とうげ峠\0"
+  - contents:
+      text:
+        - "ヘブラ\x0E\0\0\x12\x06\x0Eさんさんちょう山山頂\0"
+  - contents:
+      text:
+        - "ハテノ\x0E\0\0\b\x02\x04わん湾\0"
+  - contents:
+      text:
+        - "ラネール海 上空\0"
+  - contents:
+      text:
+        - "ダスキーダ\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x04\x04めざ目覚め\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "よろず\x0E\0\0\x06\x02\x02や屋\0"
+  - contents:
+      text:
+        - "テルメ\x0E\0\0\b\x02\x04やま山\0"
+  - contents:
+      text:
+        - "アデヤ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "イーガ\x0E\0\0\b\x02\x04だん団マリッタ\x0E\0\0\b\x04\x04しぶ支部\0"
+  - contents:
+      text:
+        - "ブレッド\x0E\0\0\n\x04\x06だいち台地の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ケゲポアの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ケヤ\x0E\0\0\b\x02\x04いけ池\0"
+  - contents:
+      text:
+        - "ジョジョニウの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ガアヒササの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06ほのお炎の\x0E\0\0\f\x04\bしんでん神殿 5F\0"
+  - contents:
+      text:
+        - "フィローネ\x0E\0\0\f\x04\bくういき空域\0"
+  - contents:
+      text:
+        - "ゴングル\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "クロチェリー\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "ルーテス\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nまじんぞう魔人像\0"
+  - contents:
+      text:
+        - "ベーレ\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "モルデ\x0E\0\0\b\x02\x04とう島\0"
+  - contents:
+      text:
+        - "ヤマビ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "エウンポ\x0E\0\0\n\x04\x06こうち高地の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ウォルナー\x0E\0\0\n\x04\x06こうち高地の\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "シフミミの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "シナタニカカの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ゲルド高地 地底\0"
+  - contents:
+      text:
+        - "ヘブラ\x0E\0\0\x0E\x04\nさんみゃく山脈\0"
+  - contents:
+      text:
+        - "ハテール\x0E\0\0\n\x04\x06ちほう地方\0"
+  - contents:
+      text:
+        - "ヒッコリ\x0E\0\0\f\x04\bしんりん森林\0"
+  - contents:
+      text:
+        - "クラリビーチ\0"
+  - contents:
+      text:
+        - "よろず\x0E\0\0\x06\x02\x02や屋\0"
+  - contents:
+      text:
+        - "ヘブラの\x0E\0\0\x0E\x06\nだいかせき大化石\0"
+  - contents:
+      text:
+        - "ウォルナット\x0E\0\0\b\x02\x04やま山の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ビトゥオ\x0E\0\0\b\x02\x04だに谷の\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "オタカカの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ギシの\x0E\0\0\b\x02\x04おか丘\0"
+  - contents:
+      text:
+        - "ヘブラ\x0E\0\0\x10\x06\fさんにしだけ山西岳\0"
+  - contents:
+      text:
+        - "レボナ\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\n\x02\x06じょう城\0"
+  - contents:
+      text:
+        - "ハイラル丘陵 地底\0"
+  - contents:
+      text:
+        - "ペリド\x0E\0\0\f\x04\bせきしょ関所\0"
+  - contents:
+      text:
+        - "サーディン\x0E\0\0\x10\x06\fこうえんあと公園跡\0"
+  - contents:
+      text:
+        - "アッカレ\x0E\0\0\f\x04\bおおはし大橋\0"
+  - contents:
+      text:
+        - "アミメ\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "チュンゴ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "ナボール\x0E\0\0\b\x02\x04さん山の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ヘブラ\x0E\0\0\b\x02\x04さん山\x0E\0\0\f\x04\bほくせい北西の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ミリョタニゴの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "カエル\x0E\0\0\b\x02\x04いけ池\0"
+  - contents:
+      text:
+        - "ハゴロモ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "ケポラ\x0E\0\0\n\x02\x06とうげ峠\0"
+  - contents:
+      text:
+        - "ローメイ\x0E\0\0\b\x02\x04とう島\0"
+  - contents:
+      text:
+        - "グリオークの\x0E\0\0\x06\x02\x02す巣\0"
+  - contents:
+      text:
+        - "ゼロー\x0E\0\0\b\x02\x04いけ池\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06みなみ南ローメイ\x0E\0\0\x0E\x04\nじょうせき城跡\0"
+  - contents:
+      text:
+        - "ド・ボン\x0E\0\0\x0E\x04\nさんみゃく山脈\0"
+  - contents:
+      text:
+        - "よろず\x0E\0\0\x06\x02\x02や屋\0"
+  - contents:
+      text:
+        - "アカリダケの\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "マズサウの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "キウヨヨウの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "キマヤタの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ハイラル大森林 地底\0"
+  - contents:
+      text:
+        - "奥アッカレ 地底\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bしょうき瘴気の\x0E\0\0\x0E\x04\nどうみゃく動脈\0"
+  - contents:
+      text:
+        - "ミード\x0E\0\0\b\x02\x04ぬま沼\0"
+  - contents:
+      text:
+        - "ラウル\x0E\0\0\x10\x04\fきゅうりょう丘陵\0"
+  - contents:
+      text:
+        - "タイアモン\x0E\0\0\b\x02\x04がわ川\0"
+  - contents:
+      text:
+        - "ニーケル\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x04\x04ちえ知恵の\x0E\0\0\n\x02\x06いずみ泉\0"
+  - contents:
+      text:
+        - "ウニョジの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x16\n\x12とうぎじょうあとち闘技場跡地\0"
+  - contents:
+      text:
+        - "エコチウの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "モモシカの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "キタッカレ\x0E\0\0\n\x04\x06こうち高地\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x02\bいかずち雷の\x0E\0\0\f\x04\bしんでん神殿 6F\0"
+  - contents:
+      text:
+        - "ラネール山 地底\0"
+  - contents:
+      text:
+        - "ヒメイダ\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x12\x06\x0Eらいじゅうたに雷獣谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "シロツメ\x0E\0\0\x10\x06\fしんぶんしゃ新聞社\0"
+  - contents:
+      text:
+        - "ブイダ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "カルーガ\x0E\0\0\n\x02\x06とうげ峠の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "オキタオジの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "タダロクンの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "オホリ\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "ウオトリー\x0E\0\0\f\x04\bはいこう廃鉱\0"
+  - contents:
+      text:
+        - "フェンサ\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06こだい古代ゾーラの\x0E\0\0\f\x04\bさいでん祭殿\0"
+  - contents:
+      text:
+        - "シャリバ\x0E\0\0\b\x02\x04だけ岳の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "クタカイの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "カラハタギの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ドルミの\x0E\0\0\b\x02\x04もり森\0"
+  - contents:
+      text:
+        - "カッポレ\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\x14\b\x10じょうかまちあと城下町跡\0"
+  - contents:
+      text:
+        - "ウマチチの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "エルム丘陵の深穴\0"
+  - contents:
+      text:
+        - "テンベザイの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "トッチャ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "キタッカレ\x0E\0\0\f\x04\bかいがん海岸\0"
+  - contents:
+      text:
+        - "エキスパの\x0E\0\0\f\x04\bじゅかい樹海\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれい精霊の\x0E\0\0\f\x04\bじゅかい樹海\0"
+  - contents:
+      text:
+        - "ターリン\x0E\0\0\n\x04\x06しっち湿地\0"
+  - contents:
+      text:
+        - "ワシュアの\x0E\0\0\b\x02\x04おか丘\0"
+  - contents:
+      text:
+        - "サン\x0E\0\0\x06\x02\x02こ湖ほとりの\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x14\b\x10こうえきじょあと交易所跡\0"
+  - contents:
+      text:
+        - "ヒメイダ\x0E\0\0\b\x02\x04やま山の\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "キシノナの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "クダニサラの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\n\x02\x06じょう城 B1\0"
+  - contents:
+      text:
+        - "ゲルド砂漠 地底\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x14\b\x10さいせきじょあと砕石所跡\0"
+  - contents:
+      text:
+        - "ウルリ\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "モルダバ\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "カロク\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "バメの\x0E\0\0\b\x02\x04おか丘\0"
+  - contents:
+      text:
+        - "ラルス\x0E\0\0\x0E\x04\nすいみゃく水脈\0"
+  - contents:
+      text:
+        - "シジンニの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "オショザンウの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ジョジュウウの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ハイリア\x0E\0\0\b\x02\x04とう島\0"
+  - contents:
+      text:
+        - "コクッピ\x0E\0\0\f\x04\bせつげん雪原\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\n\x02\x06じょう城 B2\0"
+  - contents:
+      text:
+        - "ウォルナット\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "ゾナニウム\x0E\0\0\f\x04\bせいれん製錬の\x0E\0\0\b\x02\x04しま島\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x04\x04めざ目覚めの\x0E\0\0\x06\x02\x02ま間\0"
+  - contents:
+      text:
+        - "タバンタ\x0E\0\0\f\x04\bおおはし大橋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせつげん雪原の\x0E\0\0\f\x04\bうまやど馬宿\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04にし西ゲルド\0"
+  - contents:
+      text:
+        - "ゾラ\x0E\0\0\n\x04\x06だいち台地\x0E\0\0\f\x02\bいただき頂の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ウヨキトの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ウクク\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04はじ始まりの\x0E\0\0\n\x04\x06だいち台地 \x0E\0\0\x12\x06\x0Eみなみふかあな南深穴\0"
+  - contents:
+      text:
+        - "ガササの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ジオシニオの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\n\x02\x06じょう城 B3\0"
+  - contents:
+      text:
+        - "ラベラ\x0E\0\0\x0E\x06\nしっちたい湿地帯\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06ほしみ星見の\x0E\0\0\b\x02\x04しま島\0"
+  - contents:
+      text:
+        - "マルゴ\x0E\0\0\b\x02\x04いけ池\0"
+  - contents:
+      text:
+        - "チグクラマの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ラマボンクセの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ダスキーダ\x0E\0\0\f\x04\bこうげん高原\0"
+  - contents:
+      text:
+        - "イジョオの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ガタニシシの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ハイラル大森林 上空\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\x10\x04\fきゅうりょう丘陵\0"
+  - contents:
+      text:
+        - "ラブラー\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "カナレット\x0E\0\0\f\x04\bこうげん高原\0"
+  - contents:
+      text:
+        - "リンクの\x0E\0\0\b\x02\x04いえ家\0"
+  - contents:
+      text:
+        - "アルダー\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "北ローメイ城 上層\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06ひがし東ゲルド\x0E\0\0\b\x02\x04そら空\x0E\0\0\f\x04\bしょとう諸島\0"
+  - contents:
+      text:
+        - "ミナッカレ\x0E\0\0\b\x02\x04そら空\x0E\0\0\f\x04\bしょとう諸島\0"
+  - contents:
+      text:
+        - "タキナルの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "デクの樹サマの深穴\0"
+  - contents:
+      text:
+        - "ツラカミカの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "モロンクの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ゲルドの\x0E\0\0\b\x02\x04まち街\0"
+  - contents:
+      text:
+        - "アクオ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x02\bいかずち雷の\x0E\0\0\f\x04\bしんでん神殿 1F\0"
+  - contents:
+      text:
+        - "ラネール\x0E\0\0\x10\x06\fだいすいげん大水源\0"
+  - contents:
+      text:
+        - "中央ハイラル 地底\0"
+  - contents:
+      text:
+        - "ロズウッド\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "イチカラ\x0E\0\0\f\x04\bはいこう廃鉱\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06みなみ南ナビ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bぶんかい分解\x0E\0\0\x06\x02\x02や屋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06やどや宿屋\0"
+  - contents:
+      text:
+        - "南ローメイ城 上層\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04きた北ゲルド\x0E\0\0\x10\x06\fそらしょとう空諸島\0"
+  - contents:
+      text:
+        - "キタッカレ\x0E\0\0\x10\x06\fそらしょとう空諸島\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれん製錬ゴーレム\0"
+  - contents:
+      text:
+        - "タマ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "ボッチ\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "ウエス\x0E\0\0\b\x02\x04とう島\0"
+  - contents:
+      text:
+        - "アクオ\x0E\0\0\x06\x02\x02こ湖の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "コモレビーチの洞窟\0"
+  - contents:
+      text:
+        - "ネルドーラ\x0E\0\0\f\x04\bせつげん雪原\0"
+  - contents:
+      text:
+        - "スプール\x0E\0\0\b\x02\x04わん湾\0"
+  - contents:
+      text:
+        - "ジノドカオの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06さばく砂漠の\x0E\0\0\x06\x02\x02さ裂け\x0E\0\0\x06\x02\x02め目\0"
+  - contents:
+      text:
+        - "ラーヴェ\x0E\0\0\x0E\x04\nがんしょう岩礁\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x04\nちゅうおう中央ハイラル\x0E\0\0\f\x04\bくういき空域\0"
+  - contents:
+      text:
+        - "ミナッカレ\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "タルホ\x0E\0\0\b\x02\x04いけ池\0"
+  - contents:
+      text:
+        - "ローメイ島 上層\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれん製錬ゴーレム\0"
+  - contents:
+      text:
+        - "ターフェア\x0E\0\0\n\x04\x06こうち高地\0"
+  - contents:
+      text:
+        - "ウーロコ\x0E\0\0\n\x02\x06みさき岬\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fへいげんはず平原外れの\x0E\0\0\f\x04\bうまやど馬宿の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "デグドの\x0E\0\0\x06\x02\x02つ吊り\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "サオオワの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "サハスーラ\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "シハジョゴウの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "クロイダ\x0E\0\0\n\x04\x06こうち高地\0"
+  - contents:
+      text:
+        - "ハイラル丘陵 上空\0"
+  - contents:
+      text:
+        - "ミナッカレ\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06へきち僻地の\x0E\0\0\x10\x06\fとうぎじょう闘技場\0"
+  - contents:
+      text:
+        - "ホロン\x0E\0\0\b\x02\x04わん湾\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04きた北ハイラル\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06やどや宿屋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれん製錬ゴーレム\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06みなみ南のオアシス\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fへいげんはず平原外れの\x0E\0\0\b\x02\x04おか丘の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "アージェ\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "チマボタルセの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ニゴクヨキの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "コポンガ\x0E\0\0\f\x04\bむらあと村跡\0"
+  - contents:
+      text:
+        - "ミネタカカの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\x12\x06\x0Eじょうそとぼり城外堀\0"
+  - contents:
+      text:
+        - "アクオ\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれん製錬ゴーレム\0"
+  - contents:
+      text:
+        - "ツツキキ\x0E\0\0\f\x04\bせつげん雪原\0"
+  - contents:
+      text:
+        - "ナボール\x0E\0\0\b\x02\x04さん山の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "カワガモの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ヒガシノ\x0E\0\0\f\x04\bたかだい高台の\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "マヤシアラの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bじゅかい樹海フィンラス\0"
+  - contents:
+      text:
+        - "アクルン\x0E\0\0\b\x02\x04とう島\0"
+  - contents:
+      text:
+        - "ふたご\x0E\0\0\x10\x04\fおとうとばし弟橋\0"
+  - contents:
+      text:
+        - "オーセ\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "ロダイ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "シャリバ\x0E\0\0\b\x02\x04だけ岳\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれん製錬ゴーレム\0"
+  - contents:
+      text:
+        - "ラウル\x0E\0\0\x12\x06\x0Eしゅうらくあと集落跡の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "イーガ\x0E\0\0\b\x02\x04だん団のアジト\0"
+  - contents:
+      text:
+        - "南ゲルドの\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ビロン\x0E\0\0\f\x04\bせつげん雪原\x0E\0\0\b\x02\x04きた北の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "カカミンザの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "マヤミイの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ハテノ\x0E\0\0\n\x02\x06とりで砦\0"
+  - contents:
+      text:
+        - "ハイリア\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "ヒメイダの\x0E\0\0\x10\x06\fようがんたき溶岩滝\0"
+  - contents:
+      text:
+        - "クムの\x0E\0\0\x10\x06\fようがんたき溶岩滝\0"
+  - contents:
+      text:
+        - "コルネビーチ\0"
+  - contents:
+      text:
+        - "ウインタ\x0E\0\0\b\x02\x04とう島\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれん製錬ゴーレム\0"
+  - contents:
+      text:
+        - "メーベ\x0E\0\0\f\x04\bそうげん草原\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\x14\b\x10じょうかまちあと城下町跡の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06ひだり左\x0E\0\0\b\x02\x04あし脚の\x0E\0\0\b\x02\x04くら蔵\0"
+  - contents:
+      text:
+        - "ウルラ\x0E\0\0\x0E\x04\nきょうこく峡谷\x0E\0\0\n\x02\x06みなみ南の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ウメタケ\x0E\0\0\n\x04\x06だいち台地の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ビロン\x0E\0\0\f\x04\bせつげん雪原\x0E\0\0\n\x02\x06ひがし東の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ゾラ\x0E\0\0\n\x04\x06だいち台地\x0E\0\0\n\x02\x06ふもと麓の洞窟\0"
+  - contents:
+      text:
+        - "メウコウジの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "カスラー\x0E\0\0\b\x02\x04ざん山\0"
+  - contents:
+      text:
+        - "グリオー\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれん製錬ゴーレム\0"
+  - contents:
+      text:
+        - "ギサのクレーター\0"
+  - contents:
+      text:
+        - "メーベの\x0E\0\0\f\x04\bまちあと町跡の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "アッカレ\x0E\0\0\f\x04\bおおはし大橋\0"
+  - contents:
+      text:
+        - "アラフラ\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "ビトゥオ\x0E\0\0\b\x02\x04だに谷\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06そこぬ底抜け\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ターフェア\x0E\0\0\n\x04\x06こうち高地の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ゾーラの\x0E\0\0\b\x02\x04さと里\x0E\0\0\b\x04\x04ちか地下の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "クロオンウイの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "マクミノ\x0E\0\0\b\x02\x04だに谷\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x12\b\x0Eりんごじゅかい林檎樹海\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれん製錬ゴーレム\0"
+  - contents:
+      text:
+        - "レボナ\x0E\0\0\b\x02\x04ばし橋の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "ラルス\x0E\0\0\b\x02\x04いけ池\0"
+  - contents:
+      text:
+        - "ベフ\x0E\0\0\b\x02\x04とう島\0"
+  - contents:
+      text:
+        - "コーヨウ\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06ひがし東ゲルドの\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "エビススの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "カダウナリの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ラネール\x0E\0\0\n\x04\x06こうち高地\0"
+  - contents:
+      text:
+        - "ゲルド\x0E\0\0\n\x04\x06こうち高地\0"
+  - contents:
+      text:
+        - "アッカレ高原 地底\0"
+  - contents:
+      text:
+        - "ミンフラーの\x0E\0\0\x10\x06\fようがんたき溶岩滝\0"
+  - contents:
+      text:
+        - "クーホ\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x04\nしゃくねつ灼熱の\x0E\0\0\x10\x06\fとうぎじょう闘技場\0"
+  - contents:
+      text:
+        - "よろず\x0E\0\0\x06\x02\x02や屋\0"
+  - contents:
+      text:
+        - "よろず\x0E\0\0\x06\x02\x02や屋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれん製錬ゴーレム\0"
+  - contents:
+      text:
+        - "ルチル\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04そこ底なしの\x0E\0\0\b\x02\x04いけ池の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "セレス\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nぎょりんま魚鱗舞う\x0E\0\0\b\x02\x04しま島\0"
+  - contents:
+      text:
+        - "ウルラ\x0E\0\0\x0E\x04\nきょうこく峡谷\x0E\0\0\n\x02\x06ひがし東の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bたてあな竪穴の洞窟\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x02\bいにしえ古の\x0E\0\0\x10\x06\fさいだんあと祭壇跡\0"
+  - contents:
+      text:
+        - "ゾーラの\x0E\0\0\b\x02\x04さと里\x0E\0\0\b\x04\x04ちか地下の\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "ゴニタヨリソの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ドミズイノの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ナビ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "エン\x0E\0\0\b\x02\x04がわ川\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06かみよ神代の\x0E\0\0\n\x04\x06いせき遺跡\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれん製錬ゴーレム\0"
+  - contents:
+      text:
+        - "ボヌン\x0E\0\0\b\x02\x04とう島\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06みなみ南ナビ\x0E\0\0\x06\x02\x02こ湖の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "オアシスの\x0E\0\0\f\x04\bすいげん水源\0"
+  - contents:
+      text:
+        - "ココヤマの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "セヨシエの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04はじ始まりの\x0E\0\0\n\x04\x06だいち台地 \x0E\0\0\n\x02\x06ひがし東\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "モギサリの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ゴロン\x0E\0\0\f\x04\bおんせん温泉\0"
+  - contents:
+      text:
+        - "ヘブラ\x0E\0\0\x18\n\x14さんみゃくとざんぐち山脈登山口の\x0E\0\0\b\x04\x04こや小屋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x1A\n\x16ちゅうおうだいはいこう中央大廃鉱\0"
+  - contents:
+      text:
+        - "カラカラバザール\0"
+  - contents:
+      text:
+        - "サージョン\x0E\0\0\b\x02\x04はし橋\0"
+  - contents:
+      text:
+        - "ウボッツ\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "イチカラ\x0E\0\0\b\x02\x04むら村の\x0E\0\0\f\x04\bよこあな横穴\0"
+  - contents:
+      text:
+        - "ゲルドの\x0E\0\0\x0E\x06\nだいかせき大化石\0"
+  - contents:
+      text:
+        - "サイハテノ\x0E\0\0\b\x02\x04しま島の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "カミミゲの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "オミヤオの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "キカクンの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ゲルドの\x0E\0\0\x0E\x06\nだいかせき大化石\0"
+  - contents:
+      text:
+        - "ヘブラ\x0E\0\0\x12\x06\x0Eさんひがしだけ山東岳\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x12\x06\x0Eひがしこうどう東坑道\0"
+  - contents:
+      text:
+        - "ゼッカワミの\x0E\0\0\n\x04\x06ひとう秘湯\0"
+  - contents:
+      text:
+        - "めがね\x0E\0\0\b\x02\x04いわ岩\0"
+  - contents:
+      text:
+        - "ワッカ\x0E\0\0\n\x04\x06いせき遺跡\0"
+  - contents:
+      text:
+        - "リバーサイド\x0E\0\0\f\x04\bうまやど馬宿\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bきょじん巨人の\x0E\0\0\b\x02\x04もり森\0"
+  - contents:
+      text:
+        - "ツカイエ\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "ゲーロ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bじゅかい樹海ボンラス\0"
+  - contents:
+      text:
+        - "ウボッツ\x0E\0\0\n\x04\x06だいち台地の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ムウチロオの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "カワキタシラの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "テジンテの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fかんしとりで監視砦\0"
+  - contents:
+      text:
+        - "シバジタキオの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "フロリア\x0E\0\0\f\x04\bおおたき大滝\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fにしこうどう西坑道\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06ほのお炎の\x0E\0\0\f\x04\bしんでん神殿 2F\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x06\bぼうぐや防具屋\0"
+  - contents:
+      text:
+        - "ダルブル\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "ふたご\x0E\0\0\f\x04\bあにばし兄橋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nさぎょうば作業場の\x0E\0\0\f\x04\bほらあな洞穴\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06いけべ池辺の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nはちにんめ八人目の\x0E\0\0\x10\x06\fえいゆうぞう英雄像\x0E\0\0\n\x04\x06ないぶ内部\0"
+  - contents:
+      text:
+        - "クスクザの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "キタオヤマの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "デスカルデラ\0"
+  - contents:
+      text:
+        - "シヤモツシの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ユフィン\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fへいげんはず平原外れの\x0E\0\0\f\x04\bうまやど馬宿\0"
+  - contents:
+      text:
+        - "ラネール山 上空\0"
+  - contents:
+      text:
+        - "テムート\x0E\0\0\x10\x04\fきゅうりょう丘陵\0"
+  - contents:
+      text:
+        - "レンタザラシ\x0E\0\0\x06\x02\x02や屋\0"
+  - contents:
+      text:
+        - "ウォルナー\x0E\0\0\n\x04\x06こうち高地\0"
+  - contents:
+      text:
+        - "ナリシャ\x0E\0\0\n\x04\x06こうち高地\0"
+  - contents:
+      text:
+        - "メーベの\x0E\0\0\f\x04\bまちあと町跡\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06やどや宿屋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04うた唄ドリの\x0E\0\0\f\x04\bそうげん草原\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06おうけ王家の\x0E\0\0\b\x02\x04かく隠し\x0E\0\0\n\x04\x06つうろ通路\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04にし西ゲルド地下遺跡\0"
+  - contents:
+      text:
+        - "ウオ\x0E\0\0\b\x02\x04だに谷の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "サキルクマの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ウツショキの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ヒガシノ\x0E\0\0\f\x04\bたかだい高台\0"
+  - contents:
+      text:
+        - "ヘブラ山脈 地底\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06ちてい地底\0"
+  - contents:
+      text:
+        - "チロリの\x0E\0\0\f\x04\bじゅかい樹海\0"
+  - contents:
+      text:
+        - "ルト\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04きた北ローメイ\x0E\0\0\x0E\x04\nじょうせき城跡\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x06\bぼうぐや防具屋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06みなみ南ラネール\x0E\0\0\b\x02\x04そら空\x0E\0\0\f\x04\bしょとう諸島\0"
+  - contents:
+      text:
+        - "タバール\x0E\0\0\f\x04\bしんりん森林\0"
+  - contents:
+      text:
+        - "ノッケ\x0E\0\0\b\x02\x04がわ川\0"
+  - contents:
+      text:
+        - "アゲート\x0E\0\0\b\x02\x04やま山\0"
+  - contents:
+      text:
+        - "アデヤ\x0E\0\0\f\x04\bむらあと村跡\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bさいくつ採掘の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ジカイセンの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "チロリの\x0E\0\0\b\x02\x04もり森\0"
+  - contents:
+      text:
+        - "ラネール\x0E\0\0\b\x02\x04そら空\x0E\0\0\f\x04\bしょとう諸島\0"
+  - contents:
+      text:
+        - "ロッタート\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "ウニョジョジの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "イチカラリー\0"
+  - contents:
+      text:
+        - "タジカツの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "キタワカの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ゲルド\x0E\0\0\n\x04\x06さばく砂漠\0"
+  - contents:
+      text:
+        - "ヘブラ\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "ローム\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "ウライト\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "ミミフシの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "カカニタナシの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ミナッカレ\x0E\0\0\f\x04\bへいげん平原の深穴\0"
+  - contents:
+      text:
+        - "ジョチイウの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ソナパノの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x1C\n\x18うまやどしゅっちょうじょ馬宿出張所\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bくさぶえ草笛の\x0E\0\0\b\x02\x04おか丘\0"
+  - contents:
+      text:
+        - "カーマス\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x02\bいかずち雷の\x0E\0\0\f\x04\bしんでん神殿 3F\0"
+  - contents:
+      text:
+        - "オルディン\x0E\0\0\x0E\x04\nきょうこく峡谷\0"
+  - contents:
+      text:
+        - "フィローネ\x0E\0\0\f\x04\bそうげん草原\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06ことう孤島の\x0E\0\0\x10\x06\fとうぎじょう闘技場\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04きた北ゲルド\x0E\0\0\f\x04\bきょせき巨石\0"
+  - contents:
+      text:
+        - "ラネール\x0E\0\0\f\x04\bしつげん湿原の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\n\x04\x06ぜんど全土\0"
+  - contents:
+      text:
+        - "オーレン\x0E\0\0\b\x02\x04ばし橋たもとの\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "カカタオの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "シツモイの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04みず水\x0E\0\0\x06\x02\x02わ湧きの\x0E\0\0\b\x02\x04しま島\0"
+  - contents:
+      text:
+        - "ハテノ\x0E\0\0\x0E\x04\nぼくじょう牧場\0"
+  - contents:
+      text:
+        - "デスマウンテン\0"
+  - contents:
+      text:
+        - "ゲルド\x0E\0\0\n\x04\x06ちほう地方\0"
+  - contents:
+      text:
+        - "ユン\x0E\0\0\x0E\x06\nぐみほんぶ組本部\0"
+  - contents:
+      text:
+        - "ヒッコリの\x0E\0\0\f\x04\bじゅかい樹海\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bきょじん巨人の\x0E\0\0\f\x04\bじゅかい樹海\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06やどや宿屋\0"
+  - contents:
+      text:
+        - "リコナ\x0E\0\0\f\x04\bはんとう半島の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06ゆうき勇気の\x0E\0\0\n\x02\x06いずみ泉\0"
+  - contents:
+      text:
+        - "ゴニタヨリミの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bさんろく山麓の\x0E\0\0\f\x04\bうまやど馬宿\0"
+  - contents:
+      text:
+        - "デスマウンテン\x0E\0\0\x12\b\x0Eにしさぎょうば西作業場\0"
+  - contents:
+      text:
+        - "オロムワカの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06ひがし東エウンポ\x0E\0\0\n\x04\x06こうち高地\0"
+  - contents:
+      text:
+        - "チクルン\x0E\0\0\b\x02\x04とう島\0"
+  - contents:
+      text:
+        - "ロマーニ\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "タバール\x0E\0\0\f\x04\bしんりん森林の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "ダルニア\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "ポプラー\x0E\0\0\n\x04\x06こうち高地\0"
+  - contents:
+      text:
+        - "ウヨヨウキの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "タヤマキの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "マヤチノウの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ルテラーダム\0"
+  - contents:
+      text:
+        - "コモロ\x0E\0\0\x14\b\x10ちゅうとんちあと駐屯地跡\0"
+  - contents:
+      text:
+        - "カゴッサ\x0E\0\0\f\x04\bれんぽう連峰\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x02\bかみなり雷の\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04まよ迷いの\x0E\0\0\b\x02\x04もり森\0"
+  - contents:
+      text:
+        - "アッカレ\x0E\0\0\f\x04\bこうげん高原\0"
+  - contents:
+      text:
+        - "オブババ\x0E\0\0\n\x04\x06そうち草地\0"
+  - contents:
+      text:
+        - "シャトー\x0E\0\0\x12\x06\x0Eしゅうらくあと集落跡の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "ウチコエの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "カシモモの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04とき時の\x0E\0\0\b\x02\x04もり森の\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "ムサノキラの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ナタカカの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x18\n\x14ちゅうおうひろばあと中央広場跡\0"
+  - contents:
+      text:
+        - "ボヌール\x0E\0\0\n\x04\x06さんち山地\0"
+  - contents:
+      text:
+        - "モルガナ\x0E\0\0\b\x02\x04やま山\0"
+  - contents:
+      text:
+        - "オルディン\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "オルディンの\x0E\0\0\x0E\x06\nだいかせき大化石\0"
+  - contents:
+      text:
+        - "タルホ\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "カラカラバザールの\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "クロダタの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "レンイゼの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ルタフウメの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "バルダスのレストラン\0"
+  - contents:
+      text:
+        - "ヘブラ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "クムの\x0E\0\0\x06\x02\x02ち地\0"
+  - contents:
+      text:
+        - "ウォルナー\x0E\0\0\b\x02\x04さん山\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04にし西エウンポ\x0E\0\0\n\x04\x06こうち高地\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nひなんごう避難壕\0"
+  - contents:
+      text:
+        - "サマサ\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bけんじゃ賢者の\x0E\0\0\x10\b\fしんでんちか神殿地下の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "タバール\x0E\0\0\f\x04\bしんりん森林の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ギタハラカの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "サヒロワの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "オオギンの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ピエール\x0E\0\0\n\x04\x06こうち高地\0"
+  - contents:
+      text:
+        - "ラブラー\x0E\0\0\b\x02\x04おか丘\0"
+  - contents:
+      text:
+        - "シェーラ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "サフィアス\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06みなみ南タバンタ\x0E\0\0\f\x04\bせつげん雪原\0"
+  - contents:
+      text:
+        - "トヒキ\x0E\0\0\b\x02\x04いけ池\0"
+  - contents:
+      text:
+        - "ゲルド\x0E\0\0\n\x04\x06こうち高地 \x0E\0\0\x12\x06\x0Eちょうぼうだい鳥望台\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nふたごやま双子山\x0E\0\0\b\x02\x04きた北の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "テトラ\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "ゲルド\x0E\0\0\x0E\x04\nさんちょう山頂の\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "ロツマムの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ジョゴウの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\n\x02\x06じょう城 1F\0"
+  - contents:
+      text:
+        - "ラネール\x0E\0\0\f\x04\bくういき空域\0"
+  - contents:
+      text:
+        - "オーレン\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "ラベラ\x0E\0\0\x0E\x06\nしっちたい湿地帯 \x0E\0\0\x12\x06\x0Eちょうぼうだい鳥望台\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nふたごやま双子山\x0E\0\0\n\x02\x06みなみ南の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ナノシキの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ラサニダクの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "マヤマツノの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ノウダの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "マヤリイナの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "モーリ\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "フロリア\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "ゾナウ\x0E\0\0\f\x04\bちょうさ調査\x0E\0\0\b\x02\x04たい隊\x0E\0\0\f\x04\bきょてん拠点\0"
+  - contents:
+      text:
+        - "デスマウンテン 上空\0"
+  - contents:
+      text:
+        - "オルディン峡谷 地底\0"
+  - contents:
+      text:
+        - "ラネール\x0E\0\0\b\x02\x04さん山\0"
+  - contents:
+      text:
+        - "ウルラ\x0E\0\0\x0E\x04\nきょうこく峡谷\0"
+  - contents:
+      text:
+        - "サトリ\x0E\0\0\b\x02\x04やま山\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\x10\x06\fしゅくばまち宿場町 \x0E\0\0\n\x04\x06あとち跡地\0"
+  - contents:
+      text:
+        - "よろず\x0E\0\0\x06\x02\x02や屋\0"
+  - contents:
+      text:
+        - "ドイブラン\x0E\0\0\n\x04\x06いせき遺跡 \x0E\0\0\x12\x06\x0Eちょうぼうだい鳥望台\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bみぎうで右腕の\x0E\0\0\b\x02\x04くら蔵\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x04\x04よみ黄泉の\x0E\0\0\b\x02\x04がわ川の\x0E\0\0\f\x04\bたきうら滝裏\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "チャガラ\x0E\0\0\b\x02\x04はま浜\0"
+  - contents:
+      text:
+        - "ウンザヨシオの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ウウユジョジの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ローメイ\x0E\0\0\b\x02\x04とう島の\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "ジョクウシニの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ププンケの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ウオ\x0E\0\0\b\x02\x04だに谷\0"
+  - contents:
+      text:
+        - "ダルボ\x0E\0\0\b\x02\x04いけ池\0"
+  - contents:
+      text:
+        - "ラネール\x0E\0\0\f\x04\bしつげん湿原\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06ひがし東ミナッカレ\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "リトの\x0E\0\0\f\x04\bうまやど馬宿\0"
+  - contents:
+      text:
+        - "ルピ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nはちにんめ八人目の\x0E\0\0\x10\x06\fえいゆうぞう英雄像\0"
+  - contents:
+      text:
+        - "ポプラー\x0E\0\0\n\x04\x06こうち高地 \x0E\0\0\x12\x06\x0Eちょうぼうだい鳥望台\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x18\n\x14ひこうくんれんじょう飛行訓練場\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bかいせい回生の\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ラネール\x0E\0\0\x12\x06\x0Eさんどうみなみ参道南の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ササガの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "オニシオジの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "エウトウメの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "バミトカの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "オクノ\x0E\0\0\b\x02\x04わん湾\0"
+  - contents:
+      text:
+        - "バーチ\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "カズリュー\x0E\0\0\b\x02\x04がわ川\0"
+  - contents:
+      text:
+        - "カカリコ\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06ほのお炎の\x0E\0\0\f\x04\bしんでん神殿\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06こだい古代の\x0E\0\0\x0E\x06\nちかとりで地下砦\0"
+  - contents:
+      text:
+        - "ネズッポの\x0E\0\0\f\x04\bじゅかい樹海\0"
+  - contents:
+      text:
+        - "グスタフ\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "ラネール\x0E\0\0\x1C\f\x18さんどうちゅうおうひろば参道中央広場\0"
+  - contents:
+      text:
+        - "ラネール\x0E\0\0\b\x02\x04さん山 \x0E\0\0\x12\x06\x0Eちょうぼうだい鳥望台\0"
+  - contents:
+      text:
+        - "サウズ\x0E\0\0\b\x02\x04とう島\0"
+  - contents:
+      text:
+        - "アッカレ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "ゾーラの\x0E\0\0\b\x02\x04さと里\0"
+  - contents:
+      text:
+        - "アライソ\x0E\0\0\f\x04\bかいがん海岸\0"
+  - contents:
+      text:
+        - "シシニタガの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "イシシメの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ガノサの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ルテラー\x0E\0\0\b\x02\x04がわ川\0"
+  - contents:
+      text:
+        - "ベーレ\x0E\0\0\b\x02\x04だに谷\0"
+  - contents:
+      text:
+        - "ヘブラ\x0E\0\0\n\x04\x06ちほう地方\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04にし西ミナッカレ\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06ちから力の\x0E\0\0\f\x04\bげんせん源泉\0"
+  - contents:
+      text:
+        - "ニカカ\x0E\0\0\b\x02\x04とう島\0"
+  - contents:
+      text:
+        - "カルーガ\x0E\0\0\n\x02\x06とうげ峠 \x0E\0\0\x12\x06\x0Eちょうぼうだい鳥望台\0"
+  - contents:
+      text:
+        - "ダライト\x0E\0\0\f\x04\bしんりん森林\0"
+  - contents:
+      text:
+        - "カミカラツの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "クンロモの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "マヤチデギナの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "イラサクの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06ひがし東ゲルド\x0E\0\0\n\x04\x06こうち高地\0"
+  - contents:
+      text:
+        - "イグルス\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "ハテノコ\x0E\0\0\b\x02\x04じま島\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06ほのお炎の\x0E\0\0\f\x04\bしんでん神殿 4F\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04にし西ハテール\0"
+  - contents:
+      text:
+        - "タバンタ\x0E\0\0\b\x02\x04そら空\x0E\0\0\f\x04\bしょとう諸島\0"
+  - contents:
+      text:
+        - "アッカレ\x0E\0\0\x0E\x04\nとりであと砦跡\0"
+  - contents:
+      text:
+        - "バンメザ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "ドクロ\x0E\0\0\b\x02\x04いけ池の\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "ビリディン\x0E\0\0\n\x04\x06こうち高地の\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04はじ始まりの\x0E\0\0\n\x04\x06だいち台地 \x0E\0\0\x10\x06\fきたふかあな北深穴\0"
+  - contents:
+      text:
+        - "オツツマの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "クラカタの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04ねが願いの\x0E\0\0\n\x04\x06かわべ川辺\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bほんまる本丸\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04きた北タバンタ\x0E\0\0\b\x02\x04そら空\x0E\0\0\f\x04\bしょとう諸島\0"
+  - contents:
+      text:
+        - "ヒガッカレ\x0E\0\0\f\x04\bうまやど馬宿\0"
+  - contents:
+      text:
+        - "ジルコー\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "カエデ\x0E\0\0\f\x04\bはんとう半島の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ウトジシの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x04\nこうみょう光明の\x0E\0\0\x06\x02\x02ま間\0"
+  - contents:
+      text:
+        - "ハテノ\x0E\0\0\b\x02\x04むら村\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x06\x02\x02に二の\x0E\0\0\b\x02\x04まる丸\0"
+  - contents:
+      text:
+        - "カカリコ\x0E\0\0\b\x02\x04むら村\0"
+  - contents:
+      text:
+        - "テルメ\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bてんぼう天望の\x0E\0\0\b\x02\x04おか丘\0"
+  - contents:
+      text:
+        - "ルツ\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "ブレンヌの\x0E\0\0\b\x02\x04おか丘\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04にし西ゲルド\x0E\0\0\n\x04\x06いせき遺跡\0"
+  - contents:
+      text:
+        - "トカゲの\x0E\0\0\b\x02\x04かく隠れ\x0E\0\0\b\x02\x04あな穴\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x04\nせいりゅう清流の\x0E\0\0\n\x04\x06ごしょ御所\0"
+  - contents:
+      text:
+        - "カカタネミの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "カミズナの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fかんごくあと監獄跡\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04にし西ハイラル\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "シャトー\x0E\0\0\x12\x06\x0Eしゅうらくあと集落跡\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x04\nしょうてん昇天の\x0E\0\0\x06\x02\x02ま間\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04さん三の\x0E\0\0\b\x02\x04まる丸\0"
+  - contents:
+      text:
+        - "\x0E\0\0$\x10 おうりつこだいけんきゅうじょあと王立古代研究所跡\0"
+  - contents:
+      text:
+        - "ハイラルの\x0E\0\0\n\x04\x06ちてい地底\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04わす忘れ\x0E\0\0\x06\x02\x02さ去られた\x0E\0\0\f\x04\bしんでん神殿\0"
+  - contents:
+      text:
+        - "マーリン\x0E\0\0\b\x02\x04わん湾\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bみつりん密林の\x0E\0\0\x10\x06\fとうぎじょう闘技場\0"
+  - contents:
+      text:
+        - "カール\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "ダフネス\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "タバンタ\x0E\0\0\x10\x06\fだいせつげん大雪原\0"
+  - contents:
+      text:
+        - "ユフィン\x0E\0\0\x06\x02\x02こ湖の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x04\nひょうけつ氷結の\x0E\0\0\f\x04\bさんろく山麓\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ゾラ\x0E\0\0\n\x04\x06だいち台地\x0E\0\0\x0E\x04\nちゅうふく中腹の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ラナ\x0E\0\0\x06\x02\x02こ湖の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "シナカワカの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "スアリワカの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04ほう奉\x0E\0\0\b\x02\x04こう光の\x0E\0\0\x06\x02\x02ま間\0"
+  - contents:
+      text:
+        - "アウール\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04きた北の\x0E\0\0\n\x04\x06ひむろ氷室\0"
+  - contents:
+      text:
+        - "ゴダイ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "東ハテール 上空\0"
+  - contents:
+      text:
+        - "オルディン山脈 地底\0"
+  - contents:
+      text:
+        - "ハテール\x0E\0\0\f\x04\bくういき空域\0"
+  - contents:
+      text:
+        - "ドルミの\x0E\0\0\f\x04\bじゅかい樹海\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06やどや宿屋\0"
+  - contents:
+      text:
+        - "フロリア\x0E\0\0\b\x02\x04がわ川上流の\x0E\0\0\x0E\x06\nいせきくつ遺跡窟\0"
+  - contents:
+      text:
+        - "ゾラ\x0E\0\0\n\x04\x06だいち台地の\x0E\0\0\x06\x02\x02ぬ抜け\x0E\0\0\b\x02\x04みち道\0"
+  - contents:
+      text:
+        - "タウヨシプニの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ラカクダジトの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04こう光\x0E\0\0\b\x02\x04えん炎の\x0E\0\0\x06\x02\x02ま間\0"
+  - contents:
+      text:
+        - "ハシビロ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x02\bいかずち雷の\x0E\0\0\f\x04\bしんでん神殿 5F\0"
+  - contents:
+      text:
+        - "パファー\x0E\0\0\f\x04\bかいがん海岸\0"
+  - contents:
+      text:
+        - "コーラル\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fほうしょくや宝飾屋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nふたごやま双子山\0"
+  - contents:
+      text:
+        - "クオタ\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bしつげん湿原の\x0E\0\0\f\x04\bうまやど馬宿\x0E\0\0\n\x02\x06みなみ南の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04しん新マリッタ\x0E\0\0\f\x04\bうまやど馬宿の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "バー\0"
+  - contents:
+      text:
+        - "ユン\x0E\0\0\x0E\x06\nぐみほんぶ組本部東の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bりゅうさ流砂\x0E\0\0\x06\x02\x02こ湖の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ウッコ\x0E\0\0\b\x02\x04いけ池の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ツカロクの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ゴングルの\x0E\0\0\b\x02\x04おか丘\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bしゃこう遮光の\x0E\0\0\x06\x02\x02ま間\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x12\b\x0Eちょすいちあと貯水池跡\0"
+  - contents:
+      text:
+        - "カズリュー\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "クハン\x0E\0\0\b\x02\x04いけ池\0"
+  - contents:
+      text:
+        - "ジャラ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "イサミ\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "カカリコ\x0E\0\0\b\x02\x04むら村の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "ユン\x0E\0\0\x0E\x06\nぐみほんぶ組本部南の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ヘブラ\x0E\0\0\f\x04\bすいげん水源の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ホロン\x0E\0\0\b\x02\x04わん湾の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "シククチの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bさいこう採光の\x0E\0\0\x06\x02\x02ま間\0"
+  - contents:
+      text:
+        - "アーモシア\x0E\0\0\f\x04\bかいがん海岸\0"
+  - contents:
+      text:
+        - "ヘブラの\x0E\0\0\x0E\x06\nやみかせき闇化石\0"
+  - contents:
+      text:
+        - "ドゥエス\x0E\0\0\b\x02\x04とう島\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04もり森の\x0E\0\0\f\x04\bうまやど馬宿の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "デスマウンテン\x0E\0\0\n\x02\x06ふもと麓の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ターム\x0E\0\0\n\x02\x06みさき岬の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "シワカマの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ゲルドキャニオン\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bえいこう栄光の\x0E\0\0\x06\x02\x02ま間\0"
+  - contents:
+      text:
+        - "ハテノ\x0E\0\0\f\x04\bがっこう学校\0"
+  - contents:
+      text:
+        - "ラネール\x0E\0\0\x14\b\x10さんどうにしぐち参道西口\0"
+  - contents:
+      text:
+        - "フィローネ\x0E\0\0\b\x02\x04かい海\0"
+  - contents:
+      text:
+        - "ハテール\x0E\0\0\b\x02\x04かい海\0"
+  - contents:
+      text:
+        - "ハテール海 地底\0"
+  - contents:
+      text:
+        - "ナボール\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "オルディン\x0E\0\0\f\x04\bはいこう廃鉱\0"
+  - contents:
+      text:
+        - "ラウル\x0E\0\0\x12\x06\x0Eしゅうらくあと集落跡\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x06\bぼうぐや防具屋\0"
+  - contents:
+      text:
+        - "メーブル\x0E\0\0\f\x04\bこうげん高原\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fかんしとりで監視砦の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "ノイズミドの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ツラカワカの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ジョチシウの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "オクタの\x0E\0\0\b\x02\x04もり森\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04わす忘れ\x0E\0\0\x06\x02\x02さ去られた\x0E\0\0\f\x04\bしんでん神殿\0"
+  - contents:
+      text:
+        - "フィローネ海 地底\0"
+  - contents:
+      text:
+        - "ミナッカレの\x0E\0\0\b\x02\x04たき滝\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04きた北ゲルド\x0E\0\0\n\x04\x06いせき遺跡\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bさんろく山麓の\x0E\0\0\f\x04\bうまやど馬宿の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "マルゴ\x0E\0\0\f\x04\bこうどう坑道\0"
+  - contents:
+      text:
+        - "キュサツ\x0E\0\0\x06\x02\x02こ湖の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ツツキキ\x0E\0\0\f\x04\bせつげん雪原\x0E\0\0\f\x04\bほくせい北西の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04きた北ハイラル\x0E\0\0\f\x04\bへいげん平原の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "コログの\x0E\0\0\b\x02\x04もり森\0"
+  - contents:
+      text:
+        - "デスマウンテン\x0E\0\0\x0E\x06\nとざんぐち登山口\0"
+  - contents:
+      text:
+        - "リオゴコの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "イショキンの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "タバンタ\x0E\0\0\x0E\x04\nへんきょう辺境\0"
+  - contents:
+      text:
+        - "ゲルドの\x0E\0\0\x0E\b\nちかはかば地下墓場\0"
+  - contents:
+      text:
+        - "ラネール\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "ミスミ\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nさぎょうば作業場の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "ミズーダ\x0E\0\0\x06\x02\x02こ湖の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bじゅかい樹海スグラントの\x0E\0\0\x0E\x06\nいせきくつ遺跡窟\0"
+  - contents:
+      text:
+        - "クカキの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "アネダミミカの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "シスラナの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "エメラル\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "ハイリア湖 地底\0"
+  - contents:
+      text:
+        - "ヘブラ\x0E\0\0\f\x04\bくういき空域\0"
+  - contents:
+      text:
+        - "ルト\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04きた北ローメイ \x0E\0\0\f\x06\bちかそう地下層\0"
+  - contents:
+      text:
+        - "エボニ\x0E\0\0\b\x02\x04やま山\0"
+  - contents:
+      text:
+        - "セラの\x0E\0\0\b\x02\x04たき滝\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06ゆうき勇気を\x0E\0\0\b\x02\x04ため試す\x0E\0\0\b\x02\x04しま島\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x18\b\x14みなみさいくつじょう南採掘場\0"
+  - contents:
+      text:
+        - "ウオトリー\x0E\0\0\b\x02\x04むら村\0"
+  - contents:
+      text:
+        - "ミナッカレ\x0E\0\0\f\x04\bうまやど馬宿の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bさんろく山麓の\x0E\0\0\n\x04\x06まくつ魔窟\0"
+  - contents:
+      text:
+        - "ビトゥオ\x0E\0\0\b\x02\x04だに谷の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "タイアモン\x0E\0\0\b\x02\x04がわ川\x0E\0\0\f\x04\bかりゅう下流の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "オキタジバシの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "マヤウシユの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "テンマテンの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ゴロン\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x12\x06\x0Eらいじゅうざん雷獣山\0"
+  - contents:
+      text:
+        - "ルミーのねぐら\0"
+  - contents:
+      text:
+        - "ミカウ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "サン\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x06\bぼうぐや防具屋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bごうゆう剛勇を\x0E\0\0\b\x02\x04ため試す\x0E\0\0\b\x02\x04しま島\0"
+  - contents:
+      text:
+        - "ヒガッカレ\x0E\0\0\f\x04\bうまやど馬宿の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "ヤシノ\x0E\0\0\n\x04\x06いせき遺跡\0"
+  - contents:
+      text:
+        - "ラブラー\x0E\0\0\b\x02\x04やま山の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "サイハテノ\x0E\0\0\b\x02\x04しま島の\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "イショダグンの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "イガシュクの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ジョチイヒガの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "スレミーの\x0E\0\0\b\x04\x04こや小屋\0"
+  - contents:
+      text:
+        - "ハイラルの\x0E\0\0\n\x04\x06だいち大地\0"
+  - contents:
+      text:
+        - "タモ\x0E\0\0\b\x02\x04ぬま沼\0"
+  - contents:
+      text:
+        - "ベリル\x0E\0\0\f\x04\bせつげん雪原\0"
+  - contents:
+      text:
+        - "ラネール湿原 地底\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04おく奥アッカレ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04そこ底なしの\x0E\0\0\b\x02\x04いけ池\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04てん天へと\x0E\0\0\b\x02\x04つら連なる\x0E\0\0\f\x04\bしまじま島々\0"
+  - contents:
+      text:
+        - "マクアリン\x0E\0\0\n\x04\x06こうち高地\0"
+  - contents:
+      text:
+        - "よろず\x0E\0\0\x06\x02\x02や屋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bだいゆう大勇を\x0E\0\0\b\x02\x04ため試す\x0E\0\0\b\x02\x04しま島\0"
+  - contents:
+      text:
+        - "オルディン\x0E\0\0\x10\x06\fそらしょとう空諸島\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04とき時の\x0E\0\0\x10\x06\fしんでんあと神殿跡\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fだいようせい大妖精の\x0E\0\0\n\x02\x06いずみ泉\0"
+  - contents:
+      text:
+        - "ハラヤ\x0E\0\0\b\x02\x04いけ池ほとりの\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\x10\x04\fきゅうりょう丘陵の\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "キョシツウの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nりょうりや料理屋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x12\x06\x0Eりゅうこつぬま竜骨沼\0"
+  - contents:
+      text:
+        - "タキイハバノの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "マカスラの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ルト\x0E\0\0\b\x02\x04さん山\0"
+  - contents:
+      text:
+        - "デスマウンテン 地底\0"
+  - contents:
+      text:
+        - "ハイリア\x0E\0\0\b\x02\x04がわ川\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bさいせき採石の\x0E\0\0\b\x02\x04しま島\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06みなみ南オルディン\x0E\0\0\x10\x06\fそらしょとう空諸島\0"
+  - contents:
+      text:
+        - "テスタ\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "ヘブラ\x0E\0\0\b\x02\x04がわ川\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fだいようせい大妖精の\x0E\0\0\n\x02\x06いずみ泉\0"
+  - contents:
+      text:
+        - "リノス\x0E\0\0\n\x02\x06とうげ峠の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "タバンタ\x0E\0\0\x14\b\x10おおはしうまやど大橋馬宿の井戸\0"
+  - contents:
+      text:
+        - "ブリザー\x0E\0\0\b\x02\x04だに谷\0"
+  - contents:
+      text:
+        - "サトリ\x0E\0\0\b\x02\x04やま山\x0E\0\0\n\x02\x06ふもと麓の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "オクノ\x0E\0\0\b\x02\x04わん湾ほとりの\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "セイカジの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "エンオマの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "キョノニシウの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x14\b\x10はちえいゆうぞう八英雄像の\x0E\0\0\x06\x02\x02ま間\0"
+  - contents:
+      text:
+        - "ヘブラ\x0E\0\0\f\x04\bきたみね北峰\0"
+  - contents:
+      text:
+        - "ヒガッカレ\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "ハイリア\x0E\0\0\b\x02\x04さん山\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x02\bたましい魂の\x0E\0\0\f\x04\bしんでん神殿\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06やどや宿屋\0"
+  - contents:
+      text:
+        - "モルセ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fだいようせい大妖精の\x0E\0\0\n\x02\x06いずみ泉\0"
+  - contents:
+      text:
+        - "タバンタ\x0E\0\0\f\x04\bむらあと村跡の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x02\bかみなり雷の\x0E\0\0\n\x04\x06だいち台地の洞窟\0"
+  - contents:
+      text:
+        - "ツカジタの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "カワタキの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "カイゲン\x0E\0\0\b\x02\x04いけ池\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04はじ始まりの\x0E\0\0\n\x04\x06だいち台地 \x0E\0\0\x10\x06\fにしふかあな西深穴\0"
+  - contents:
+      text:
+        - "チロリの森の深穴\0"
+  - contents:
+      text:
+        - "クママイノの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ティマワカの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06ひがし東の\x0E\0\0\x14\b\x10しゅくばまちあと宿場町跡\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04きよ清めの\x0E\0\0\b\x02\x04いけ池\0"
+  - contents:
+      text:
+        - "フロリア\x0E\0\0\b\x02\x04ざん山\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x1E\x0E\x1Aじょうかまちものみとうあと城下町物見塔跡\0"
+  - contents:
+      text:
+        - "カサイメ\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "ゲルド砂漠 上空\0"
+  - contents:
+      text:
+        - "ラネール\x0E\0\0\b\x02\x04かい海\0"
+  - contents:
+      text:
+        - "オルディン\x0E\0\0\f\x04\bくういき空域\0"
+  - contents:
+      text:
+        - "ウルリ\x0E\0\0\b\x02\x04やま山\0"
+  - contents:
+      text:
+        - "バウメル\x0E\0\0\n\x04\x06こうち高地\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fせんしょくや染色屋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06やどや宿屋\0"
+  - contents:
+      text:
+        - "マリッタ\x0E\0\0\x14\b\x10こうえきしょあと交易所跡の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "ククジャ\x0E\0\0\b\x02\x04だに谷\x0E\0\0\n\x02\x06ひがし東の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ウーロコ\x0E\0\0\n\x02\x06みさき岬\x0E\0\0\f\x04\bがけした崖下の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ギサのクレーターの\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ウイチョジの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ノパナソの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bじゅかい樹海ダムゼル\0"
+  - contents:
+      text:
+        - "ヨミズキの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ジョンサウの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\x14\b\x10だいせいどうあと大聖堂跡\0"
+  - contents:
+      text:
+        - "イバーラ\x0E\0\0\n\x04\x06こうち高地\0"
+  - contents:
+      text:
+        - "クテン\x0E\0\0\b\x02\x04いけ池\0"
+  - contents:
+      text:
+        - "ハイリア\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "ゲルド高地 上空\0"
+  - contents:
+      text:
+        - "フィローネ\x0E\0\0\n\x04\x06ちほう地方\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x1A\x0E\x16こだいちかてんぼうだい古代地下展望台\0"
+  - contents:
+      text:
+        - "ナクルン\x0E\0\0\b\x02\x04とう島\0"
+  - contents:
+      text:
+        - "ラーミン\x0E\0\0\f\x04\bへいげん平原の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "ヤシノビーチ\0"
+  - contents:
+      text:
+        - "アッカレ\x0E\0\0\x16\b\x12れんぺいじょうあと練兵場跡\0"
+  - contents:
+      text:
+        - "トロンボビーチ\0"
+  - contents:
+      text:
+        - "スタルリ\x0E\0\0\n\x04\x06だいち台地の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ヘブラ\x0E\0\0\x12\x06\x0Eさんみなみだけ山南岳の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "サトリ\x0E\0\0\b\x02\x04やま山の洞窟\0"
+  - contents:
+      text:
+        - "エキスパの\x0E\0\0\b\x02\x04もり森の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x18\n\x14こだいせきちゅうぐん古代石柱群の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "イモツシの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "マヤヒシカの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ラシワカの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ゲルド\x0E\0\0\b\x02\x04ぞく族の\x0E\0\0\f\x06\bちかがい地下街\0"
+  - contents:
+      text:
+        - "ゾーラ\x0E\0\0\b\x02\x04がわ川\0"
+  - contents:
+      text:
+        - "東ハテール 地底\0"
+  - contents:
+      text:
+        - "ラネール\x0E\0\0\n\x04\x06ちほう地方\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06さばく砂漠の\x0E\0\0\x10\x06\fとうぎじょう闘技場\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04おく奥アッカレ\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "メルカ\x0E\0\0\b\x02\x04とう島\0"
+  - contents:
+      text:
+        - "バーチ\x0E\0\0\f\x04\bへいげん平原の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06ひがし東ゲルド\x0E\0\0\n\x04\x06いせき遺跡の洞窟\0"
+  - contents:
+      text:
+        - "ラネール\x0E\0\0\f\x04\bしつげん湿原の\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "ハテノ\x0E\0\0\n\x02\x06とりで砦の洞窟\0"
+  - contents:
+      text:
+        - "ククジャ\x0E\0\0\b\x02\x04だに谷西の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "カワムロオの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "モツシシの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "マッコレ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "カール\x0E\0\0\b\x02\x04さん山\0"
+  - contents:
+      text:
+        - "ベニバ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "オブリー\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bしつげん湿原の\x0E\0\0\f\x04\bうまやど馬宿\0"
+  - contents:
+      text:
+        - "リノス\x0E\0\0\n\x02\x06とうげ峠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bやみばら闇祓いの\x0E\0\0\b\x02\x04しま島\0"
+  - contents:
+      text:
+        - "イルメナ\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "エルム\x0E\0\0\x10\x04\fきゅうりょう丘陵の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bじゅかい樹海フィンラスの\x0E\0\0\x0E\x06\nいせきくつ遺跡窟\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x04\nちゅうおう中央ゲルドの\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ウノチヤマの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "マオイケスカの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06ひがし東の\x0E\0\0\x0E\x06\nちょすいこ貯水湖\0"
+  - contents:
+      text:
+        - "グチニザ\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "ヘマ\x0E\0\0\n\x04\x06こうち高地\0"
+  - contents:
+      text:
+        - "ハイリア湖 上空\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bへいげん平原の\x0E\0\0\x0E\x06\nまじんぞう魔人像\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nふたごたに双子谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "よろず\x0E\0\0\x06\x02\x02や屋\0"
+  - contents:
+      text:
+        - "ハテール\x0E\0\0\b\x02\x04そら空\x0E\0\0\f\x04\bしょとう諸島\0"
+  - contents:
+      text:
+        - "タバンタヒル\0"
+  - contents:
+      text:
+        - "カロク\x0E\0\0\b\x02\x04ばし橋の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bしつげん湿原の\x0E\0\0\x14\b\x10ちゅうとんちあと駐屯地跡\0"
+  - contents:
+      text:
+        - "ダスキーダ\x0E\0\0\b\x02\x04さん山の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ゴングルの\x0E\0\0\b\x02\x04おか丘の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ラキノサムの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ガタキサの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "モシャピンの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04もり森の\x0E\0\0\f\x04\bうまやど馬宿\0"
+  - contents:
+      text:
+        - "ハイラルの\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "クス\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "マキューズ\x0E\0\0\f\x04\bはんとう半島\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bかいせい回生の\x0E\0\0\n\x04\x06ひとう秘湯\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04とき時の\x0E\0\0\f\x04\bじゅかい樹海\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bじゅかい樹海リベラ\0"
+  - contents:
+      text:
+        - "マドロナ\x0E\0\0\b\x02\x04やま山\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06みなみ南ハテール\x0E\0\0\x10\x06\fそらしょとう空諸島\0"
+  - contents:
+      text:
+        - "サルファの\x0E\0\0\b\x02\x04おか丘\0"
+  - contents:
+      text:
+        - "グスタフ\x0E\0\0\b\x02\x04さん山の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "ミファー\x0E\0\0\f\x04\bこうえん公園\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bじゅかい樹海サージョンの\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "レボナ\x0E\0\0\b\x02\x04ばし橋の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ゼインレの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "メウフタルの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "イヘンアの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ギカクンの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ヒメイダ\x0E\0\0\b\x02\x04やま山\0"
+  - contents:
+      text:
+        - "カザーナ\x0E\0\0\f\x04\bさけだに裂谷\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x02\bいかずち雷の\x0E\0\0\f\x04\bしんでん神殿 7F\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06ひがし東ハテール\0"
+  - contents:
+      text:
+        - "ハテール海 上空\0"
+  - contents:
+      text:
+        - "ゲルド\x0E\0\0\f\x04\bくういき空域\0"
+  - contents:
+      text:
+        - "ミナミノ\x0E\0\0\b\x02\x04わん湾\0"
+  - contents:
+      text:
+        - "カスラー\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "パル\x0E\0\0\n\x04\x06こうち荒地\0"
+  - contents:
+      text:
+        - "ダフネス\x0E\0\0\b\x02\x04さん山の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "ハテノ\x0E\0\0\b\x02\x04むら村\x0E\0\0\b\x02\x04にし西の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "ドイブラン\x0E\0\0\n\x04\x06いせき遺跡\0"
+  - contents:
+      text:
+        - "ハイリア\x0E\0\0\x06\x02\x02こ湖の\x0E\0\0\x14\b\x10おおうずどうくつ大渦洞窟\0"
+  - contents:
+      text:
+        - "ナボール\x0E\0\0\b\x02\x04さん山 \x0E\0\0\n\x02\x06みなみ南の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "フロリア\x0E\0\0\b\x02\x04ざん山の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "タバンタヒルの\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ワロヒサの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ギオオの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ツツウメの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06ひがし東ゲルド\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x04\x04よみ黄泉の\x0E\0\0\b\x02\x04がわ川\0"
+  - contents:
+      text:
+        - "ゲルド\x0E\0\0\f\x04\bはいこう廃鉱\0"
+  - contents:
+      text:
+        - "ウォルナー\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "モルダバ\x0E\0\0\b\x02\x04やま山\0"
+  - contents:
+      text:
+        - "ルチマー\x0E\0\0\n\x04\x06こうち高地\0"
+  - contents:
+      text:
+        - "オルドーラ\x0E\0\0\n\x04\x06ぼんち盆地\0"
+  - contents:
+      text:
+        - "ハテノ\x0E\0\0\b\x02\x04むら村\x0E\0\0\n\x02\x06ひがし東の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "マーサの\x0E\0\0\x06\x02\x02い入り\x0E\0\0\x06\x02\x02え江\0"
+  - contents:
+      text:
+        - "ポプラー\x0E\0\0\n\x04\x06こうち高地の\x0E\0\0\x0E\x06\nいせきくつ遺跡窟\0"
+  - contents:
+      text:
+        - "めがね\x0E\0\0\b\x02\x04いわ岩 \x0E\0\0\n\x02\x06ふもと麓の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ウォルナー\x0E\0\0\x0E\x04\nさんふもと山麓の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nちょすいこ貯水湖ほとりの\x0E\0\0\f\x04\bがんくつ岩窟\0"
+  - contents:
+      text:
+        - "ムマツロの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ウゴヨジの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "リトの\x0E\0\0\b\x02\x04むら村の\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "ルル\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "マヤウメキサの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "フロリア\x0E\0\0\b\x02\x04がわ川\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\n\x02\x06じょう城\0"
+  - contents:
+      text:
+        - "ハイラルの\x0E\0\0\f\x04\bそらじま空島\0"
+  - contents:
+      text:
+        - "カッポレ\x0E\0\0\b\x02\x04やま山\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bけんじゃ賢者の\x0E\0\0\x10\x06\fしんでんあと神殿跡\0"
+  - contents:
+      text:
+        - "ラネール大水源 上空\0"
+  - contents:
+      text:
+        - "ラネール湿原 上空\0"
+  - contents:
+      text:
+        - "タバールの\x0E\0\0\f\x04\bじゅかい樹海\0"
+  - contents:
+      text:
+        - "レンタザラシ\x0E\0\0\x06\x02\x02や屋\0"
+  - contents:
+      text:
+        - "ハテノ\x0E\0\0\b\x02\x04むら村\x0E\0\0\n\x02\x06みなみ南の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "ゾーラ\x0E\0\0\f\x04\bおおはし大橋\0"
+  - contents:
+      text:
+        - "めがね\x0E\0\0\b\x02\x04いわ岩の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "コクッピ\x0E\0\0\f\x04\bせつげん雪原の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ノツマヤマの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ダウノの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ナイリヤマの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "リンバービーチ\0"
+  - contents:
+      text:
+        - "カマツキサの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "エキスパの\x0E\0\0\b\x02\x04もり森\0"
+  - contents:
+      text:
+        - "クムの\x0E\0\0\n\x04\x06ひとう秘湯\0"
+  - contents:
+      text:
+        - "ラネール\x0E\0\0\x16\b\x12さんどうひがしぐち参道東口\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06ほのお炎の\x0E\0\0\f\x04\bしんでん神殿 1F\0"
+  - contents:
+      text:
+        - "ヘブラ\x0E\0\0\f\x04\bはいこう廃鉱\0"
+  - contents:
+      text:
+        - "タバンタ\x0E\0\0\x14\b\x10おおはしうまやど大橋馬宿\0"
+  - contents:
+      text:
+        - "テグリー\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "ゼルダの家の井戸\0"
+  - contents:
+      text:
+        - "アッカレ\x0E\0\0\x1C\n\x18とりでれんらくきょうあと砦連絡橋跡\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x12\x06\x0Eらいじゅうざん雷獣山\x0E\0\0\x0E\x04\nちゅうふく中腹の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ケンププの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ジルタグマチの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ウコオジシの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "モヨリ\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "カルサー\x0E\0\0\b\x02\x04だに谷\0"
+  - contents:
+      text:
+        - "ゴロス\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\x10\x06\fだいしんりん大森林\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x04\nすいじょう水上の\x0E\0\0\x10\x06\fとうぎじょう闘技場\0"
+  - contents:
+      text:
+        - "ラーミン\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "リリトト\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04きた北タバンタ\x0E\0\0\f\x04\bせつげん雪原\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x12\x06\x0Eぼくじょうあと牧場跡の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x02\bいにしえ古の\x0E\0\0\x10\x06\fろうごくあと牢獄跡\0"
+  - contents:
+      text:
+        - "ルーテス\x0E\0\0\x06\x02\x02こ湖の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "リリトト湖西の洞窟\0"
+  - contents:
+      text:
+        - "メウトウエの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "カトミバの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06りゅう龍の\x0E\0\0\f\x06\bるけいち流刑地\0"
+  - contents:
+      text:
+        - "セパパの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "タニノウダの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ゲルドキャニオン \x0E\0\0\f\x04\bいりぐち入口\0"
+  - contents:
+      text:
+        - "ゲルド\x0E\0\0\n\x04\x06さばく砂漠 \x0E\0\0\f\x04\bいりぐち入口\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x1C\n\x18うまやどしゅっちょうじょ馬宿出張所\0"
+  - contents:
+      text:
+        - "ククジャ\x0E\0\0\b\x02\x04だに谷\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04かぜ風の\x0E\0\0\f\x04\bしんでん神殿 B1\0"
+  - contents:
+      text:
+        - "よろず\x0E\0\0\x06\x02\x02や屋\0"
+  - contents:
+      text:
+        - "ツァボ\x0E\0\0\f\x04\bせつげん雪原\0"
+  - contents:
+      text:
+        - "ゾナウ\x0E\0\0\x0E\x06\nいせきぐん遺跡群\0"
+  - contents:
+      text:
+        - "ラネール\x0E\0\0\f\x04\bれんぽう連峰\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04はじ始まりの\x0E\0\0\n\x04\x06だいち台地\x0E\0\0\n\x02\x06ふもと麓の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ロダイ\x0E\0\0\x06\x02\x02こ湖ほとりの\x0E\0\0\f\x04\bよこあな横穴\0"
+  - contents:
+      text:
+        - "メシシイの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ウオトラリー\0"
+  - contents:
+      text:
+        - "ダスキーダ\x0E\0\0\b\x02\x04さん山\0"
+  - contents:
+      text:
+        - "マヤタタの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれい精霊の\x0E\0\0\b\x02\x04もり森\0"
+  - contents:
+      text:
+        - "ハテノ\x0E\0\0\x18\n\x14こだいけんきゅうじょ古代研究所\0"
+  - contents:
+      text:
+        - "クーホ\x0E\0\0\b\x02\x04やま山\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x04\x04めざ目覚め\x0E\0\0\b\x02\x04やま山\0"
+  - contents:
+      text:
+        - "キタッカレ\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04かぜ風の\x0E\0\0\f\x04\bしんでん神殿 B2\0"
+  - contents:
+      text:
+        - "タバンタ辺境 地底\0"
+  - contents:
+      text:
+        - "西ハテール 地底\0"
+  - contents:
+      text:
+        - "マキューズの\x0E\0\0\x10\x06\fさいくつこう採掘坑\0"
+  - contents:
+      text:
+        - "リコナ\x0E\0\0\f\x04\bはんとう半島\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x06\bぼうぐや防具屋\0"
+  - contents:
+      text:
+        - "ゴーレム\x0E\0\0\f\x04\bせいぞう製造\x0E\0\0\b\x02\x04ぼう房\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x06\x02\x02く朽ちた\x0E\0\0\x10\x06\fせんねんじゅ千年樹\0"
+  - contents:
+      text:
+        - "パファー\x0E\0\0\f\x04\bかいがん海岸の\x0E\0\0\x12\x06\x0Eてんじょうくつ天井窟\0"
+  - contents:
+      text:
+        - "コーラル\x0E\0\0\x06\x02\x02こ湖ほとりの\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ナギデチヤマの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "クサライの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ススヤイの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ゴアナ\x0E\0\0\x0E\x04\nきょうこく峡谷\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\n\x02\x06じょう城\x0E\0\0\b\x04\x04ちか地下\0"
+  - contents:
+      text:
+        - "ヒメガミ\x0E\0\0\b\x02\x04がわ川\0"
+  - contents:
+      text:
+        - "ダフネス\x0E\0\0\b\x02\x04さん山\0"
+  - contents:
+      text:
+        - "フィローネ草原 上空\0"
+  - contents:
+      text:
+        - "アッカレ\x0E\0\0\b\x02\x04かい海\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x04\x04ちえ知恵の\x0E\0\0\f\x04\bげんせん源泉\0"
+  - contents:
+      text:
+        - "ブイダ\x0E\0\0\x06\x02\x02こ湖ほとりの\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "マツツオの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "タカラクの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\x12\x06\x0Eじょうそとぼり城外堀 \x0E\0\0\x12\x06\x0Eひがしふかあな東深穴\0"
+  - contents:
+      text:
+        - "アポゲケの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ボール運び受付\0"
+  - contents:
+      text:
+        - "グチニザ\x0E\0\0\x16\n\x12へいげんこふんぐん平原古墳群\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\x1C\n\x18ぐんえんしゅうじょうあと軍演習場跡\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x02\bいかずち雷の\x0E\0\0\f\x04\bしんでん神殿 2F\0"
+  - contents:
+      text:
+        - "ゼッカワミの\x0E\0\0\x10\x06\fようがんたき溶岩滝\0"
+  - contents:
+      text:
+        - "カエデ\x0E\0\0\f\x04\bはんとう半島\0"
+  - contents:
+      text:
+        - "ホーネル\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせいれん製錬ゴーレム\0"
+  - contents:
+      text:
+        - "ホコラ\x0E\0\0\b\x02\x04とう島\0"
+  - contents:
+      text:
+        - "アデヤ\x0E\0\0\f\x04\bむらあと村跡\x0E\0\0\b\x02\x04きた北の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x04\nひだりうで左腕の\x0E\0\0\b\x02\x04くら蔵\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x04\nしゅうえん終焉の\x0E\0\0\b\x02\x04たに谷\0"
+  - contents:
+      text:
+        - "シジトウの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04きた北ローメイの\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "ミズーダ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04せん千の\x0E\0\0\n\x04\x06なかす中州\0"
+  - contents:
+      text:
+        - "オルディン峡谷 上空\0"
+  - contents:
+      text:
+        - "アゲート\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "ハイリア\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "オルディンの\x0E\0\0\x0E\x06\nやみかせき闇化石\0"
+  - contents:
+      text:
+        - "マズラ\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06やどや宿屋\0"
+  - contents:
+      text:
+        - "ルマリン\x0E\0\0\f\x04\bさきゅう砂丘\0"
+  - contents:
+      text:
+        - "ラナ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "アデヤ\x0E\0\0\f\x04\bむらあと村跡の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04はじ始まりの\x0E\0\0\f\x04\bそらじま空島\0"
+  - contents:
+      text:
+        - "ナズミカの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\x12\x06\x0Eじょうそとぼり城外堀 \x0E\0\0\b\x02\x04にし西\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "ラルート\x0E\0\0\f\x04\bおおはし大橋\0"
+  - contents:
+      text:
+        - "オルディン\x0E\0\0\x0E\x04\nさんみゃく山脈\0"
+  - contents:
+      text:
+        - "フィローネ海 上空\0"
+  - contents:
+      text:
+        - "マリッタ\x0E\0\0\x14\b\x10こうえきしょあと交易所跡\0"
+  - contents:
+      text:
+        - "ゲルド\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "フロリア\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "ネズッポの\x0E\0\0\n\x02\x06はやし林\0"
+  - contents:
+      text:
+        - "サリヤ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "タバンタ\x0E\0\0\f\x04\bむらあと村跡\0"
+  - contents:
+      text:
+        - "アデヤ\x0E\0\0\f\x04\bむらあと村跡\x0E\0\0\n\x02\x06ひがし東の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "ゴングル\x0E\0\0\b\x02\x04やま山の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "カワカナシの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "カワリアスの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ゲルド\x0E\0\0\x0E\x04\nさんちょう山頂\0"
+  - contents:
+      text:
+        - "マッコレ\x0E\0\0\b\x02\x04じま島\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\x18\n\x14ぐんちゅうとんちあと軍駐屯地跡\0"
+  - contents:
+      text:
+        - "ダライトの\x0E\0\0\f\x04\bじゅかい樹海\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bだんがい断崖の\x0E\0\0\x0E\x06\nまじんぞう魔人像\0"
+  - contents:
+      text:
+        - "イチカラ\x0E\0\0\b\x02\x04むら村\0"
+  - contents:
+      text:
+        - "アデヤ\x0E\0\0\f\x04\bむらあと村跡\x0E\0\0\n\x02\x06みなみ南の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "ミキキ\x0E\0\0\b\x02\x04がわ川\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bぜんしん全身に\x0E\0\0\n\x02\x06ちから力がみなぎる\x0E\0\0\b\x02\x04ふく服\0"
+  - contents:
+      text:
+        - "ニプシヨウタの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "トジダクカラの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06みなみ南ローメイの\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "ウサズマの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x04\x04かじ鍛冶ゴーレム\0"
+  - contents:
+      text:
+        - "ヘブラ\x0E\0\0\x10\x06\fさんきただけ山北岳\0"
+  - contents:
+      text:
+        - "ヘブラツンドラ\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04かぜ風の\x0E\0\0\f\x04\bしんでん神殿\0"
+  - contents:
+      text:
+        - "マリッタの\x0E\0\0\b\x02\x04おか丘\0"
+  - contents:
+      text:
+        - "トト\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fうまがみばし馬神橋\0"
+  - contents:
+      text:
+        - "バウメル\x0E\0\0\n\x04\x06こうち高地の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "イーガ\x0E\0\0\b\x02\x04だん団 \x0E\0\0\x12\b\x0Eかんぶつめしょ幹部詰所\0"
+  - contents:
+      text:
+        - "ラルート\x0E\0\0\x0E\x04\nすいみゃく水脈\0"
+  - contents:
+      text:
+        - "クロカツの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "イーガ\x0E\0\0\b\x02\x04だん団アジトの\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "ジョニウの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "エルム\x0E\0\0\x10\x04\fきゅうりょう丘陵\0"
+  - contents:
+      text:
+        - "カラカラ\x0E\0\0\f\x04\bはいこう廃鉱\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06ひがし東ヘブラ\x0E\0\0\b\x02\x04そら空\x0E\0\0\f\x04\bしょとう諸島\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x16\b\x12しょけいじょうあと処刑場跡\0"
+  - contents:
+      text:
+        - "エノキダ\x0E\0\0\x0E\x06\nこうむてん工務店 \x0E\0\0\x0E\x06\nさぎょうば作業場\0"
+  - contents:
+      text:
+        - "ポプラー\x0E\0\0\n\x04\x06こうち高地\x0E\0\0\b\x02\x04きた北の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "アッカレ\x0E\0\0\x18\n\x14こだいけんきゅうじょ古代研究所\0"
+  - contents:
+      text:
+        - "ギナビーの\x0E\0\0\b\x02\x04もり森\0"
+  - contents:
+      text:
+        - "アッカレ\x0E\0\0\x0E\x04\nとりであと砦跡の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x06\x02\x02く朽ちた\x0E\0\0\x10\x06\fせんねんじゅ千年樹の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06いしき石切り\x0E\0\0\x06\x02\x02ば場の\x0E\0\0\x10\x06\fさいくつこう採掘坑\0"
+  - contents:
+      text:
+        - "チククシの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ネルドーラ\x0E\0\0\f\x04\bせつげん雪原の\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "ジオタキオの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x1C\f\x18もんまえしゅくばまちあと門前宿場町跡\0"
+  - contents:
+      text:
+        - "コモロ\x0E\0\0\b\x02\x04いけ池\0"
+  - contents:
+      text:
+        - "オルディン\x0E\0\0\n\x04\x06ちほう地方\0"
+  - contents:
+      text:
+        - "フィローネ\x0E\0\0\x10\x06\fそらしょとう空諸島\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06みなみ南ヘブラ\x0E\0\0\b\x02\x04そら空\x0E\0\0\f\x04\bしょとう諸島\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06ふめい不明\0"
+  - contents:
+      text:
+        - "ポプラー\x0E\0\0\n\x04\x06こうち高地\x0E\0\0\n\x02\x06みなみ南の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04とき時の\x0E\0\0\f\x04\bしんでん神殿\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04がけ崖を\x0E\0\0\n\x04\x06すばや素早く\x0E\0\0\b\x02\x04のぼ登れる\x0E\0\0\b\x02\x04ふく服\0"
+  - contents:
+      text:
+        - "ターム\x0E\0\0\n\x02\x06みさき岬\0"
+  - contents:
+      text:
+        - "ブビンガの\x0E\0\0\b\x02\x04もり森\0"
+  - contents:
+      text:
+        - "ドクロ\x0E\0\0\b\x02\x04いけ池の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bくさぶえ草笛の\x0E\0\0\b\x02\x04おか丘の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "マカワシの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "イカタクの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ヤーナの\x0E\0\0\b\x02\x04たに谷\0"
+  - contents:
+      text:
+        - "トロイワ\x0E\0\0\f\x04\bこうげん高原\0"
+  - contents:
+      text:
+        - "モルガナ\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04にし西ハテール\x0E\0\0\b\x02\x04そら空\x0E\0\0\f\x04\bしょとう諸島\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04にし西ヘブラ\x0E\0\0\b\x02\x04そら空\x0E\0\0\f\x04\bしょとう諸島\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fかんしとりで監視砦の\x0E\0\0\x12\x06\x0Eちょうぼうだい鳥望台\0"
+  - contents:
+      text:
+        - "ミオウ\x0E\0\0\b\x02\x04とう島\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bしつげん湿原の\x0E\0\0\x14\b\x10ちゅうとんちあと駐屯地跡の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "ダルマー\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "ヒトスギ\x0E\0\0\f\x04\bれんぽう連峰\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04うた唄ドリの\x0E\0\0\f\x04\bそうげん草原の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ラネール\x0E\0\0\f\x04\bしつげん湿原への\x0E\0\0\x06\x02\x02ぬ抜け\x0E\0\0\b\x02\x04みち道\0"
+  - contents:
+      text:
+        - "カワカラツの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ウシチョジの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ウコウホの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "チチマウの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06ひがし東の\x0E\0\0\x10\x06\fしんでんあと神殿跡\0"
+  - contents:
+      text:
+        - "エンゼル\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "アッカレ高原 上空\0"
+  - contents:
+      text:
+        - "マーロンの\x0E\0\0\n\x02\x06いずみ泉\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06ゆうき勇気の\x0E\0\0\f\x04\bげんせん源泉\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x04\nちゅうおう中央ハイラル\x0E\0\0\b\x02\x04そら空\x0E\0\0\f\x04\bしょとう諸島\0"
+  - contents:
+      text:
+        - "ラブラー\x0E\0\0\b\x02\x04やま山 \x0E\0\0\x12\x06\x0Eちょうぼうだい鳥望台\0"
+  - contents:
+      text:
+        - "サウズ\x0E\0\0\b\x02\x04とう島の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x16\n\x12とうぎじょうあとち闘技場跡地の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "エメラル\x0E\0\0\n\x04\x06だいち台地の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "コゴオリの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "キョシイの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "グタンバチの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "カハタナウメの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ハテノビーチ\0"
+  - contents:
+      text:
+        - "フロリア\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "ジェド\x0E\0\0\b\x02\x04ばし橋\0"
+  - contents:
+      text:
+        - "奥アッカレ 上空\0"
+  - contents:
+      text:
+        - "オクタの\x0E\0\0\f\x04\bじゅかい樹海\0"
+  - contents:
+      text:
+        - "ウォルナット\x0E\0\0\b\x02\x04やま山\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04きた北ハテール\x0E\0\0\b\x02\x04そら空\x0E\0\0\f\x04\bしょとう諸島\0"
+  - contents:
+      text:
+        - "ツツキキ\x0E\0\0\f\x04\bせつげん雪原 \x0E\0\0\x12\x06\x0Eちょうぼうだい鳥望台\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fだいようせい大妖精の\x0E\0\0\n\x02\x06いずみ泉\0"
+  - contents:
+      text:
+        - "コポンガ\x0E\0\0\f\x04\bむらあと村跡の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bでんげき電撃に\x0E\0\0\b\x02\x04つよ強くなる\x0E\0\0\b\x02\x04ふく服\0"
+  - contents:
+      text:
+        - "ビリディン\x0E\0\0\n\x04\x06こうち高地\0"
+  - contents:
+      text:
+        - "ビロン\x0E\0\0\f\x04\bせつげん雪原\0"
+  - contents:
+      text:
+        - "キタッカレ\x0E\0\0\f\x04\bかいがん海岸の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "カミミダネアの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ナラスシの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "インイサの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ニンジシの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x16\n\x12まものてんじじょう魔物展示場\0"
+  - contents:
+      text:
+        - "オルディン山脈 上空\0"
+  - contents:
+      text:
+        - "アッカレ海 上空\0"
+  - contents:
+      text:
+        - "ラネール\x0E\0\0\f\x04\bはいこう廃鉱\0"
+  - contents:
+      text:
+        - "オルパー\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "よろず\x0E\0\0\x06\x02\x02や屋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06みなみ南ハイラル\x0E\0\0\b\x02\x04そら空\x0E\0\0\f\x04\bしょとう諸島\0"
+  - contents:
+      text:
+        - "オルディン\x0E\0\0\x0E\x04\nきょうこく峡谷 \x0E\0\0\x12\x06\x0Eちょうぼうだい鳥望台\0"
+  - contents:
+      text:
+        - "トスメジア\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "カカリコ\x0E\0\0\b\x02\x04むら村の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ユシウヤマの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "テマンテの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ナチョヤハの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "トキヨウの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ミンフラーの\x0E\0\0\n\x04\x06ひとう秘湯\0"
+  - contents:
+      text:
+        - "キタノ\x0E\0\0\b\x02\x04わん湾\0"
+  - contents:
+      text:
+        - "ハイリア\x0E\0\0\f\x04\bおおはし大橋\0"
+  - contents:
+      text:
+        - "ラブラー\x0E\0\0\b\x02\x04やま山\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04みず水の\x0E\0\0\f\x04\bしんでん神殿\0"
+  - contents:
+      text:
+        - "アッカレの\x0E\0\0\f\x04\bほねつか骨塚\0"
+  - contents:
+      text:
+        - "トモエ\x0E\0\0\f\x04\bさんどう山道\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06やどや宿屋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04きた北ハイラル\x0E\0\0\b\x02\x04そら空\x0E\0\0\f\x04\bしょとう諸島\0"
+  - contents:
+      text:
+        - "ウルリ\x0E\0\0\b\x02\x04やま山 \x0E\0\0\x12\x06\x0Eちょうぼうだい鳥望台\0"
+  - contents:
+      text:
+        - "ウッコ\x0E\0\0\b\x02\x04いけ池\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x04\nせいりゅう清流の\x0E\0\0\n\x04\x06ごしょ御所\0"
+  - contents:
+      text:
+        - "トスメジア\x0E\0\0\n\x04\x06だいち台地の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "コッコの\x0E\0\0\b\x02\x04かく隠れ\x0E\0\0\x06\x02\x02が家\0"
+  - contents:
+      text:
+        - "グダヨシイの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "クユシガイの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ガヒイチョジの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "マラクグチの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "セクンボマラの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ロズウッド\x0E\0\0\b\x02\x04さん山\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06ほのお炎の\x0E\0\0\f\x04\bしんでん神殿 3F\0"
+  - contents:
+      text:
+        - "ギナビーの\x0E\0\0\f\x04\bじゅかい樹海\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04にし西ハイラル\x0E\0\0\x10\x06\fそらしょとう空諸島\0"
+  - contents:
+      text:
+        - "サハスーラ\x0E\0\0\f\x04\bへいげん平原 \x0E\0\0\x12\x06\x0Eちょうぼうだい鳥望台\0"
+  - contents:
+      text:
+        - "アッカレ\x0E\0\0\x0E\x04\nとりであと砦跡 \x0E\0\0\f\x02\bいただき頂の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "クムの\x0E\0\0\x16\b\x12げんりゅうどうくつ源流洞窟\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x04\x04はま破魔の\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ノバハイキタの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ラスカマの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ルナキタの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ジョクウの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "エウンポ\x0E\0\0\n\x04\x06こうち高地\0"
+  - contents:
+      text:
+        - "フィローネ\x0E\0\0\x14\b\x10じゅかいいりぐち樹海入口\0"
+  - contents:
+      text:
+        - "ギサの\x0E\0\0\b\x02\x04おか丘\0"
+  - contents:
+      text:
+        - "ローム\x0E\0\0\b\x02\x04さん山\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x04\nちゅうおう中央ハイラル\0"
+  - contents:
+      text:
+        - "アッカレ\x0E\0\0\n\x04\x06ちほう地方\0"
+  - contents:
+      text:
+        - "アッカレ\x0E\0\0\f\x04\bくういき空域\0"
+  - contents:
+      text:
+        - "ブビンガの\x0E\0\0\f\x04\bじゅかい樹海\0"
+  - contents:
+      text:
+        - "リトの\x0E\0\0\b\x02\x04むら村\0"
+  - contents:
+      text:
+        - "ゾラ\x0E\0\0\n\x04\x06だいち台地 \x0E\0\0\x12\x06\x0Eちょうぼうだい鳥望台\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fたからばこや宝箱屋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bみぎあし右脚の\x0E\0\0\b\x02\x04くら蔵\0"
+  - contents:
+      text:
+        - "サハスーラ\x0E\0\0\f\x04\bへいげん平原の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "マオンエの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ウシニノヨキの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "サイハテノ\x0E\0\0\b\x02\x04しま島\0"
+  - contents:
+      text:
+        - "ドクロ\x0E\0\0\b\x02\x04いけ池\0"
+  - contents:
+      text:
+        - "マヤナシの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ゴダイ\x0E\0\0\b\x02\x04がわ川\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x02\bいかずち雷の\x0E\0\0\f\x04\bしんでん神殿 B1\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "ミナッカレ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bじゅかい樹海サージョン\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\f\x04\bへいげん平原 \x0E\0\0\x12\x06\x0Eちょうぼうだい鳥望台\0"
+  - contents:
+      text:
+        - "バッテリー\x0E\0\0\x0E\x06\nせいぞうき製造機\0"
+  - contents:
+      text:
+        - "デスマウンテン\x0E\0\0\x12\x06\x0Eひがしこうどう東坑道\0"
+  - contents:
+      text:
+        - "カワマイテの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nまじんぞう魔人像\0"
+  - contents:
+      text:
+        - "ワオオサの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "カリン\x0E\0\0\f\x04\bこうげん高原\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fてんぼうしつ展望室\0"
+  - contents:
+      text:
+        - "コホリット\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "タバンタ辺境 上空\0"
+  - contents:
+      text:
+        - "カズリュー\x0E\0\0\f\x04\bさいだん祭壇\0"
+  - contents:
+      text:
+        - "グスタフ\x0E\0\0\b\x02\x04さん山\0"
+  - contents:
+      text:
+        - "ゲルドキャニオン\x0E\0\0\x12\x06\x0Eちょうぼうだい鳥望台\0"
+  - contents:
+      text:
+        - "オクタ\x0E\0\0\b\x02\x04いけ池\0"
+  - contents:
+      text:
+        - "バッテリー\x0E\0\0\x0E\x06\nせいぞうき製造機\0"
+  - contents:
+      text:
+        - "デスマウンテン\x0E\0\0\x10\x06\fにしこうどう西坑道\0"
+  - contents:
+      text:
+        - "キズミヨの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ウサンヨジの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\f\x04\bへいげん平原の\x0E\0\0\b\x02\x04ふか深\x0E\0\0\b\x02\x04あな穴\0"
+  - contents:
+      text:
+        - "バウメル\x0E\0\0\n\x04\x06こうち高地の\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nまじんぞう魔人像\0"
+  - contents:
+      text:
+        - "セルタボマチの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "キョクゴニの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06ひがし東ゲルド\x0E\0\0\n\x04\x06いせき遺跡\0"
+  - contents:
+      text:
+        - "ボネ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x04\nしょくどう食堂\0"
+  - contents:
+      text:
+        - "キビナ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "西ハテール 上空\0"
+  - contents:
+      text:
+        - "テルメ\x0E\0\0\n\x02\x06とうげ峠\0"
+  - contents:
+      text:
+        - "コポンガ\x0E\0\0\b\x02\x04とう島\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bらいめい雷鳴の\x0E\0\0\b\x02\x04しま島\0"
+  - contents:
+      text:
+        - "ダルマー\x0E\0\0\x06\x02\x02こ湖の\x0E\0\0\n\x04\x06まくつ魔窟\0"
+  - contents:
+      text:
+        - "カシヒヤマの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "カワシラの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ヒガッカレ\x0E\0\0\f\x04\bへいげん平原の\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nまじんぞう魔人像\0"
+  - contents:
+      text:
+        - "モガワカの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "イゴションの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x10\x06\fくんれんじょ訓練所\0"
+  - contents:
+      text:
+        - "ファーレン\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x02\bいかずち雷の\x0E\0\0\f\x04\bしんでん神殿 4F\0"
+  - contents:
+      text:
+        - "マリッタ\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "カカリコ\x0E\0\0\f\x04\bはいこう廃鉱\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06みなみ南ローメイ \x0E\0\0\f\x06\bちかそう地下層\0"
+  - contents:
+      text:
+        - "ロードラム\x0E\0\0\f\x04\bはんとう半島\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04しん新マリッタ\x0E\0\0\f\x04\bうまやど馬宿\0"
+  - contents:
+      text:
+        - "よろず\x0E\0\0\x06\x02\x02や屋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04とき時の\x0E\0\0\b\x02\x04もり森\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06かざみ風見の\x0E\0\0\f\x04\bそうげん草原\0"
+  - contents:
+      text:
+        - "ニカカ\x0E\0\0\b\x02\x04とう島\x0E\0\0\f\x04\bこうどう坑道\0"
+  - contents:
+      text:
+        - "ボネ\x0E\0\0\x06\x02\x02こ湖\x0E\0\0\n\x02\x06ひがし東の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "シシツモの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nまじんぞう魔人像\0"
+  - contents:
+      text:
+        - "ザンミカカの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "キュサツ\x0E\0\0\x06\x02\x02こ湖\0"
+  - contents:
+      text:
+        - "モミ\x0E\0\0\b\x02\x04がわ川\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x04\nひょうけつ氷結の\x0E\0\0\f\x04\bさんろく山麓\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04はじ始まりの\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nとしょしつ図書室\0"
+  - contents:
+      text:
+        - "ウメタケ\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "コモレビーチ\0"
+  - contents:
+      text:
+        - "フィローネ草原 地底\0"
+  - contents:
+      text:
+        - "ヘブラ山脈 上空\0"
+  - contents:
+      text:
+        - "チナガレ\x0E\0\0\x0E\x06\nしっちたい湿地帯\0"
+  - contents:
+      text:
+        - "ウオトリー\x0E\0\0\b\x02\x04むら村の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "ゾラ\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "ユン\x0E\0\0\b\x02\x04ぐみ組\x0E\0\0\n\x04\x06そうこ倉庫\0"
+  - contents:
+      text:
+        - "カスケイオマの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nまじんぞう魔人像\0"
+  - contents:
+      text:
+        - "ジウコウメの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ウルシ\x0E\0\0\b\x02\x04いけ池\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\x18\n\x14しんりんこうえんあと森林公園跡\0"
+  - contents:
+      text:
+        - "カイゲン\x0E\0\0\n\x04\x06こうち高地\0"
+  - contents:
+      text:
+        - "コガネヤ\x0E\0\0\b\x02\x04いけ池\0"
+  - contents:
+      text:
+        - "デイビ\x0E\0\0\b\x02\x04とう島\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04みず水の\x0E\0\0\f\x04\bしんでん神殿 B1\0"
+  - contents:
+      text:
+        - "ラネール大水源 地底\0"
+  - contents:
+      text:
+        - "カルーガ\x0E\0\0\n\x02\x06とうげ峠\0"
+  - contents:
+      text:
+        - "ゲルドの\x0E\0\0\x0E\x06\nやみかせき闇化石\0"
+  - contents:
+      text:
+        - "りんごの\x0E\0\0\b\x02\x04もり森\0"
+  - contents:
+      text:
+        - "ジャーブ\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "テホタ\x0E\0\0\n\x04\x06しっち湿地\0"
+  - contents:
+      text:
+        - "レイクサイド\x0E\0\0\f\x04\bうまやど馬宿の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "オルディン\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "トロコ\x0E\0\0\b\x02\x04がけ崖\0"
+  - contents:
+      text:
+        - "ゴダイ\x0E\0\0\b\x02\x04がわ川の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ゲルド\x0E\0\0\b\x02\x04ぞく族の\x0E\0\0\f\x04\bせいいき聖域\0"
+  - contents:
+      text:
+        - "サキタガの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ピャシモの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "クレシア\x0E\0\0\f\x04\bはんとう半島\0"
+  - contents:
+      text:
+        - "マブルッド\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nまじんぞう魔人像\0"
+  - contents:
+      text:
+        - "イウンオロクの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04はな花の\x0E\0\0\n\x04\x06なかす中州\0"
+  - contents:
+      text:
+        - "ゲルドキャニオン\x0E\0\0\f\x04\bうまやど馬宿\0"
+  - contents:
+      text:
+        - "ハラヤ\x0E\0\0\b\x02\x04いけ池\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06ろうや牢屋\0"
+  - contents:
+      text:
+        - "フロドーラ\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "ヘブラ\x0E\0\0\f\x04\bすいげん水源\0"
+  - contents:
+      text:
+        - "ラネール海 地底\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06やどや宿屋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bこうげん高原の\x0E\0\0\f\x04\bうまやど馬宿の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x18\b\x14みなみさいくつじょう南採掘場\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bちんもく沈黙した\x0E\0\0\b\x02\x04ぞう像の\x0E\0\0\b\x02\x04たに谷\0"
+  - contents:
+      text:
+        - "アンヘイの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "ラカショゴの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ススビエの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ゼルダの\x0E\0\0\b\x04\x04へや部屋\0"
+  - contents:
+      text:
+        - "マドロナ\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "ネフラ\x0E\0\0\n\x04\x06こうち高地\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bせつげん雪原の\x0E\0\0\f\x04\bうまやど馬宿の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "マルゴ\x0E\0\0\f\x04\bこうどう坑道\0"
+  - contents:
+      text:
+        - "メウツツの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "チクルン\x0E\0\0\b\x02\x04とう島の\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "ソリョタニゴの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "タウンヒヨの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x12\b\x0Eふたごうまやど双子馬宿\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x04\x06ふなつ船着き\x0E\0\0\x06\x02\x02ば場\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\x18\n\x14にしじょうかまちあと西城下町跡\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06ちから力の\x0E\0\0\n\x02\x06いずみ泉\0"
+  - contents:
+      text:
+        - "ミナッカレ\x0E\0\0\f\x04\bうまやど馬宿\0"
+  - contents:
+      text:
+        - "ゲルドキャニオンの\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "レストラン西の坑道\0"
+  - contents:
+      text:
+        - "ラウル\x0E\0\0\x10\x04\fきゅうりょう丘陵の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "ハイリア\x0E\0\0\x06\x02\x02こ湖の\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "マヤココの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "エショセの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "レイクサイド\x0E\0\0\f\x04\bうまやど馬宿\0"
+  - contents:
+      text:
+        - "ゴングル\x0E\0\0\b\x02\x04やま山\0"
+  - contents:
+      text:
+        - "ヘブラ\x0E\0\0\x12\x06\x0Eさんみなみだけ山南岳\0"
+  - contents:
+      text:
+        - "ゼルダの\x0E\0\0\x12\x06\x0Eけんきゅうしつ研究室\0"
+  - contents:
+      text:
+        - "イサキ\x0E\0\0\n\x02\x06みさき岬\0"
+  - contents:
+      text:
+        - "エボニ\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "ルト\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bへいげん平原の\x0E\0\0\x12\x06\x0Eぼくじょうあと牧場跡\0"
+  - contents:
+      text:
+        - "イルメナ\x0E\0\0\b\x02\x04いけ池\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04ため試しの\x0E\0\0\n\x02\x06みさき岬\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x0E\x06\nうまがみこ馬神湖\0"
+  - contents:
+      text:
+        - "リバーサイド\x0E\0\0\f\x04\bうまやど馬宿の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "レストラン\x0E\0\0\n\x02\x06ひがし東の\x0E\0\0\f\x04\bこうどう坑道\0"
+  - contents:
+      text:
+        - "サキツマカの\x0E\0\0\x06\x02\x02ね根\0"
+  - contents:
+      text:
+        - "デスマウンテンの\x0E\0\0\f\x04\bふかあな深穴\0"
+  - contents:
+      text:
+        - "ハイラル\x0E\0\0\n\x02\x06じょう城の\x0E\0\0\b\x02\x04ふか深\x0E\0\0\b\x02\x04あな穴\0"
+  - contents:
+      text:
+        - "ゲミミカの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "オヤミオの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bこうげん高原の\x0E\0\0\f\x04\bうまやど馬宿\0"
+  - contents:
+      text:
+        - "ヒガッカレ\x0E\0\0\f\x04\bかいがん海岸\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04おう王の\x0E\0\0\f\x04\bしょさい書斎\0"
+  - contents:
+      text:
+        - "アラブー\x0E\0\0\n\x04\x06へいや平野\0"
+  - contents:
+      text:
+        - "ラネール\x0E\0\0\b\x02\x04わん湾\0"
+  - contents:
+      text:
+        - "ハテノ\x0E\0\0\f\x04\bはいこう廃鉱\0"
+  - contents:
+      text:
+        - "コログの\x0E\0\0\f\x04\bじゅかい樹海\0"
+  - contents:
+      text:
+        - "ラネール\x0E\0\0\b\x02\x04たに谷の\x0E\0\0\x0E\x06\nさいくつば採掘場\0"
+  - contents:
+      text:
+        - "タルタル\x0E\0\0\n\x04\x06だいち台地\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bしつげん湿原の\x0E\0\0\f\x04\bうまやど馬宿の\x0E\0\0\b\x04\x04いど井戸\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x12\x06\x0Eりゅうとうじま龍頭島\0"
+  - contents:
+      text:
+        - "ラネール\x0E\0\0\x12\x06\x0Eさんどうひがし参道東の\x0E\0\0\f\x04\bどうくつ洞窟\0"
+  - contents:
+      text:
+        - "オロチウムの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ラシタキワカの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "テンジテンの\x0E\0\0\n\x02\x06ほこら祠\0"
+  - contents:
+      text:
+        - "ゴロンシティ\0"
+  - contents:
+      text:
+        - "キヒレ\x0E\0\0\f\x04\bへいげん平原\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x02\bいかずち雷の\x0E\0\0\f\x04\bしんでん神殿\0"
+  - contents:
+      text:
+        - "\x0E\0\0\b\x02\x04かぜ風の\x0E\0\0\f\x04\bしんでん神殿 1F\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bしょうき瘴気の\x0E\0\0\x0E\x04\nげんりゅう源流\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bふういん封印の\x0E\0\0\n\x04\x06あとち跡地\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x06\bぼうぐや防具屋\0"
+  - contents:
+      text:
+        - "\x0E\0\0\n\x02\x06みなみ南オアシス\x0E\0\0\x12\x06\x0Eくんれんじょう訓練場\0"
+  - contents:
+      text:
+        - "\x0E\0\0\f\x04\bじゅかい樹海スグラント\0"
+  - contents:
+      text:
+        - "\x0E\0\0\x12\b\x0Eふたごうまやど双子馬宿の\x0E\0\0\b\x04\x04いど井戸\0"
