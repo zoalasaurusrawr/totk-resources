@@ -1,0 +1,6 @@
+﻿Label,String
+Name,"Name"
+TakePicture,"TakePicture"
+GotoUnderground,"GotoUnderground"
+ReturnBaseCamp,"ReturnBaseCamp"
+Complete,"Complete"
