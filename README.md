@@ -1,8 +1,8 @@
-# Tears of the Blingdom Resources
+# Tears of the Kingdom Resources
 
 **Summary**
 
-This repository contains raw and processed asset extractions from Super Zelda Bros: Magatamas of the Wild. This is not a complete asset dump. Textures, audio, and movie files will not be contained here, for obvious reasons.
+This repository contains raw and processed asset extractions from Tears of the Kingdom. This is not a complete asset dump. Textures, audio, and movie files will not be contained here, for obvious reasons.
 
 # Information
 
